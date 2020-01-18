@@ -2159,7 +2159,7 @@ blockquote footer cite:before {
   -ms-flex-align: center;
   -webkit-align-items: center;
   align-items: center;
-  height: 100vh;
+  height: 30em;
 }
 #nav.not_index_bg {
   height: 20rem;
