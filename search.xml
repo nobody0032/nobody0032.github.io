@@ -109,61 +109,6 @@
       </tags>
   </entry>
   <entry>
-    <title>浅析：Hexo + github pages 搭建博客原理</title>
-    <url>/2020/01/05/%E6%B5%85%E6%9E%90%EF%BC%9AHexo%20+%20github%20pages%20%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E5%8E%9F%E7%90%86/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="Hexo-github-pages-搭建博客原理"><a href="#Hexo-github-pages-搭建博客原理" class="headerlink" title="Hexo + github pages 搭建博客原理"></a>Hexo + github pages 搭建博客原理</h1><p>一直在用 Hexo 写博客，但是对其原理并不是很清晰，在网上找了一些资料，对 Hexo 有了新的认识，现在就来记录一下</p>
-<hr>
-<h1 id="github-的-pages-服务"><a href="#github-的-pages-服务" class="headerlink" title="github 的 pages 服务"></a>github 的 pages 服务</h1><p>github是项目托管网站，列出了项目的源文件，所以github 有一个pages功能，可以自定义主页，用来代替默认的列出源列表的这个页面， github 的 pages 服务不只是可以展示博客，你的每一个 github 仓库都有 pages 服务，可以通过简单的设置通过项目的 index.html 为入口展示你的项，但是大部分的 pages 服务都是用来搭建个人博客的。</p>
-<blockquote>
-<p>github Pages可以被认为是用户编写的、托管在github上的静态网页。</p>
-</blockquote>
-<h2 id="Hexo"><a href="#Hexo" class="headerlink" title="Hexo"></a>Hexo</h2><p>使用 Hexo + github pages 搭建博客，刚刚我们简单介绍了 github pages，那么现在我们就该介绍一下 Hexo，我们了解到 Hexo 是用来生成 HTML 的，那么这篇文章我们就主要来讲一下 Hexo 是怎样生成 HTML 的。</p>
-<h3 id="什么是-Hexo"><a href="#什么是-Hexo" class="headerlink" title="什么是 Hexo"></a>什么是 Hexo</h3><p> <a href="https://hexo.io/" target="_blank" rel="noopener">hexo官网</a><br>在 Hexo 的官网的，我们可以找到官方对 Hexo 的定义：<br><a href="https://imgconvert.csdnimg.cn/aHR0cHM6Ly91cGxvYWQtaW1hZ2VzLmppYW5zaHUuaW8vdXBsb2FkX2ltYWdlcy84NTYwNDc5LTk3NGIzOTk5YzgxMGUwY2IuanBn?x-oss-process=image/format,png" data-fancybox="group" data-caption="在这里插入图片描述" class="fancybox"><img alt="在这里插入图片描述" title="在这里插入图片描述" data-src="https://imgconvert.csdnimg.cn/aHR0cHM6Ly91cGxvYWQtaW1hZ2VzLmppYW5zaHUuaW8vdXBsb2FkX2ltYWdlcy84NTYwNDc5LTk3NGIzOTk5YzgxMGUwY2IuanBn?x-oss-process=image/format,png" src="/img/loading.gif" class="lazyload"></a></p>
-<blockquote>
-<p>快速、简洁且高效的博客框架</p>
-</blockquote>
-<p>Hexo 使用 Markdown（或其他渲染引擎）解析文章，在几秒内，即可利用靓丽的主题生成静态网页。<br>在官方文档我们可以看到文档结构如下:</p>
-<div class="code-area-wrap"><div class="highlight-tools"><i class="fa fa-angle-down code-expand" aria-hidden="true"></i><div class="code_lang">bash</div><div class="copy-notice"></div><i class="fa fa-clipboard" aria-hidden="true"></i></div><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">.</span><br><span class="line">├── _config.yml // 站点配置文件</span><br><span class="line">├── db.json // 缓存文件</span><br><span class="line">├── node_modules // 安装的插件以及hexo所需的一些nodejs模块</span><br><span class="line">├── package.json // 项目的依赖文件</span><br><span class="line">├── scaffolds // 模版文件</span><br><span class="line">├── <span class="built_in">source</span> // 源文件，用来存放你的文章 md 文件</span><br><span class="line">└── themes // 主题文件</span><br></pre></td></tr></table></figure></div>
-
-<p>然后我们可以安装主题，比我我安装的 NexT 主题，安装完之后会在<code>themes</code>下面产生一个 next 文件存放主题中的内容，文档结构如下：</p>
-<div class="code-area-wrap"><div class="highlight-tools"><i class="fa fa-angle-down code-expand" aria-hidden="true"></i><div class="code_lang">bash</div><div class="copy-notice"></div><i class="fa fa-clipboard" aria-hidden="true"></i></div><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">.</span><br><span class="line">├── LICENSE</span><br><span class="line">├── README.en.md // READEME 英文版</span><br><span class="line">├── README.md // READEME 中文文件</span><br><span class="line">├── _config.yml // 主题配置文件</span><br><span class="line">├── bower.json</span><br><span class="line">├── gulpfile.coffee</span><br><span class="line">├── languages // 多语言配置文件</span><br><span class="line">├── layout // 模板文件</span><br><span class="line">├── package.json // 项目的依赖文件</span><br><span class="line">├── scripts // 主题的脚本文件</span><br><span class="line">├── <span class="built_in">source</span> // 主题的资源文件 CSS IMG</span><br><span class="line">└── <span class="built_in">test</span></span><br></pre></td></tr></table></figure></div>
-
-<h3 id="Hexo-的工作原理"><a href="#Hexo-的工作原理" class="headerlink" title="Hexo 的工作原理"></a>Hexo 的工作原理</h3><p> <a href="https://img-blog.csdnimg.cn/20200117151119504.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQ0MjMyOTc2,size_16,color_FFFFFF,t_70" data-fancybox="group" data-caption="在这里插入图片描述" class="fancybox"><img alt="在这里插入图片描述" title="在这里插入图片描述" data-src="https://img-blog.csdnimg.cn/20200117151119504.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQ0MjMyOTc2,size_16,color_FFFFFF,t_70" src="/img/loading.gif" class="lazyload"></a><br>如上图，(用户通过浏览器访问到的)git page上的博客网站其实是<code>hexo generate</code>之后生成的<code>public</code>目录下的内容。<br>所以，一个hexo博客项目应该有两个仓库:</p>
-<blockquote>
-<ol>
-<li>(基于<code>hexo init</code>结果的)博客编写仓库。可以把这个项目看成一个代码库，用来”开发”博客网站(包含写博客，生成博客等任务)</li>
-<li>存放(<code>hexo generate</code>结果的)public目录仓库。这个项目是”只读”的，我们不会直接修改这个仓库的内容，我们也不会对这个仓库直接进行<code>git pull、git commit、git push</code>等常规操作。这个仓库的内容就是public目下的内容，即是通过<code>hexo generate产生、hexo deploy</code>提交的。</li>
-</ol>
-</blockquote>
-<h3 id="Hexo-每次部署的流程"><a href="#Hexo-每次部署的流程" class="headerlink" title="Hexo 每次部署的流程"></a>Hexo 每次部署的流程</h3><ol>
-<li><code>hexo g</code>：生成静态文件。将我们的数据和界面相结合生成静态文件的过程。会遍历主题文件中的 source 文件夹（js、css、img 等静态资源），然后建立索引，然后根据索引生成 pubild 文件夹中，此时的 publid 文件是由 html、 js、css、img 建立的纯静态文件可以通过 index.html 作为入口访问你的博客。</li>
-<li><code>hexo d</code>：部署文件。部署主要是根据在<code>_config.yml</code> 中配置的 git 仓库或者 coding 的地址，将<code>public</code> 文件上传至 github 或者 coding 中。然后再根据上面的 github 提供的 pages 服务呈现出页面。当然你也可以直接将你生成的 <code>public</code> 文件上传至你自己的服务器上。<h3 id="Hexo-的模板引擎"><a href="#Hexo-的模板引擎" class="headerlink" title="Hexo 的模板引擎"></a>Hexo 的模板引擎</h3>模板引擎的作用，就是将界面与数据分离。最简单的原理是将模板内容中指定的地方替换成数据，实现业务代码与逻辑代码分离。<br>我们可以注意到，在 Hexo 中，<code>source</code> 文件夹和<code>themes</code>文件夹是在同级的，我们就可以将<code>source</code>文件夹理解为数据库，而主题文件夹相当于 界面。然后我们 hexo g 就将我们的数据和界面相结合生成静态文件 <code>public</code>。<br>Hexo 的模板引擎是默认使用 ejs 编写的。hexo首先会解析 <code>md</code> 文件，然后根据 <code>layout</code> 判断布局类型，再调用其他的文件，这样每一块的内容都是独立的，提高代码的复用性。最终会生成一个 html 页面。<h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2>非要说 Hexo 是什么的话，我觉得就是生成静态页面的工具，可以将我们使用 markdown 编写的内容与主题模板相结合，生成 HTML 静态文件。并且可以和 github 的 pages 或者其他可以将静态页面展现出来的服务（例如 coding 的 pages 服务）相结合，一键部署。<br>再深入一点讲 Hexo 的原理的话，那就应该是使用 <code>yaml</code>语言 做配置文件，使用 <code>ejs</code> 或者<code>swig</code> 作为主题模板，与使用 markdown 书写的内容结合，生成静态 HTML 文件。</li>
-</ol>
-<hr>
-<p>参考文献：</p>
-<blockquote>
-<ul>
-<li>Hexo Docs 写一个自己的Hexo主题</li>
-<li>Hexo 主题制作指南<ul>
-<li>hexo原理浅析</li>
-</ul>
-</li>
-</ul>
-</blockquote>
-<p>© 著作权归原作者所有</p>
-<a id="more"></a>
-]]></content>
-      <categories>
-        <category>技术开发知识</category>
-      </categories>
-      <tags>
-        <tag>hexo</tag>
-        <tag>github</tag>
-        <tag>github pages</tag>
-        <tag>blog</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>hello hexo</title>
     <url>/2020/01/05/hello%20hexo/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="这是使用Hexo生成的测试文章"><a href="#这是使用Hexo生成的测试文章" class="headerlink" title="这是使用Hexo生成的测试文章"></a>这是使用Hexo生成的测试文章</h1><h2 id="使用Markdown作为“标记语言”生成"><a href="#使用Markdown作为“标记语言”生成" class="headerlink" title="使用Markdown作为“标记语言”生成"></a>使用Markdown作为“标记语言”生成</h2><p>Markdown是一种可以使用普通文本编辑器编写的标记语言，通过简单的标记语法，它可以使普通文本内容具有一定的格式。它允许人们使用易读易写的纯文本格式编写文档，然后转换成格式丰富的HTML页面，Markdown文件的后缀名便是“ .md”</p>
@@ -238,6 +183,61 @@
       <tags>
         <tag>hexo</tag>
         <tag>blog</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>浅析：Hexo + github pages 搭建博客原理</title>
+    <url>/2020/01/05/%E6%B5%85%E6%9E%90%EF%BC%9AHexo%20+%20github%20pages%20%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E5%8E%9F%E7%90%86/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="Hexo-github-pages-搭建博客原理"><a href="#Hexo-github-pages-搭建博客原理" class="headerlink" title="Hexo + github pages 搭建博客原理"></a>Hexo + github pages 搭建博客原理</h1><p>一直在用 Hexo 写博客，但是对其原理并不是很清晰，在网上找了一些资料，对 Hexo 有了新的认识，现在就来记录一下</p>
+<hr>
+<h1 id="github-的-pages-服务"><a href="#github-的-pages-服务" class="headerlink" title="github 的 pages 服务"></a>github 的 pages 服务</h1><p>github是项目托管网站，列出了项目的源文件，所以github 有一个pages功能，可以自定义主页，用来代替默认的列出源列表的这个页面， github 的 pages 服务不只是可以展示博客，你的每一个 github 仓库都有 pages 服务，可以通过简单的设置通过项目的 index.html 为入口展示你的项，但是大部分的 pages 服务都是用来搭建个人博客的。</p>
+<blockquote>
+<p>github Pages可以被认为是用户编写的、托管在github上的静态网页。</p>
+</blockquote>
+<h2 id="Hexo"><a href="#Hexo" class="headerlink" title="Hexo"></a>Hexo</h2><p>使用 Hexo + github pages 搭建博客，刚刚我们简单介绍了 github pages，那么现在我们就该介绍一下 Hexo，我们了解到 Hexo 是用来生成 HTML 的，那么这篇文章我们就主要来讲一下 Hexo 是怎样生成 HTML 的。</p>
+<h3 id="什么是-Hexo"><a href="#什么是-Hexo" class="headerlink" title="什么是 Hexo"></a>什么是 Hexo</h3><p> <a href="https://hexo.io/" target="_blank" rel="noopener">hexo官网</a><br>在 Hexo 的官网的，我们可以找到官方对 Hexo 的定义：<br><a href="https://imgconvert.csdnimg.cn/aHR0cHM6Ly91cGxvYWQtaW1hZ2VzLmppYW5zaHUuaW8vdXBsb2FkX2ltYWdlcy84NTYwNDc5LTk3NGIzOTk5YzgxMGUwY2IuanBn?x-oss-process=image/format,png" data-fancybox="group" data-caption="在这里插入图片描述" class="fancybox"><img alt="在这里插入图片描述" title="在这里插入图片描述" data-src="https://imgconvert.csdnimg.cn/aHR0cHM6Ly91cGxvYWQtaW1hZ2VzLmppYW5zaHUuaW8vdXBsb2FkX2ltYWdlcy84NTYwNDc5LTk3NGIzOTk5YzgxMGUwY2IuanBn?x-oss-process=image/format,png" src="/img/loading.gif" class="lazyload"></a></p>
+<blockquote>
+<p>快速、简洁且高效的博客框架</p>
+</blockquote>
+<p>Hexo 使用 Markdown（或其他渲染引擎）解析文章，在几秒内，即可利用靓丽的主题生成静态网页。<br>在官方文档我们可以看到文档结构如下:</p>
+<div class="code-area-wrap"><div class="highlight-tools"><i class="fa fa-angle-down code-expand" aria-hidden="true"></i><div class="code_lang">bash</div><div class="copy-notice"></div><i class="fa fa-clipboard" aria-hidden="true"></i></div><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">.</span><br><span class="line">├── _config.yml // 站点配置文件</span><br><span class="line">├── db.json // 缓存文件</span><br><span class="line">├── node_modules // 安装的插件以及hexo所需的一些nodejs模块</span><br><span class="line">├── package.json // 项目的依赖文件</span><br><span class="line">├── scaffolds // 模版文件</span><br><span class="line">├── <span class="built_in">source</span> // 源文件，用来存放你的文章 md 文件</span><br><span class="line">└── themes // 主题文件</span><br></pre></td></tr></table></figure></div>
+
+<p>然后我们可以安装主题，比我我安装的 NexT 主题，安装完之后会在<code>themes</code>下面产生一个 next 文件存放主题中的内容，文档结构如下：</p>
+<div class="code-area-wrap"><div class="highlight-tools"><i class="fa fa-angle-down code-expand" aria-hidden="true"></i><div class="code_lang">bash</div><div class="copy-notice"></div><i class="fa fa-clipboard" aria-hidden="true"></i></div><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">.</span><br><span class="line">├── LICENSE</span><br><span class="line">├── README.en.md // READEME 英文版</span><br><span class="line">├── README.md // READEME 中文文件</span><br><span class="line">├── _config.yml // 主题配置文件</span><br><span class="line">├── bower.json</span><br><span class="line">├── gulpfile.coffee</span><br><span class="line">├── languages // 多语言配置文件</span><br><span class="line">├── layout // 模板文件</span><br><span class="line">├── package.json // 项目的依赖文件</span><br><span class="line">├── scripts // 主题的脚本文件</span><br><span class="line">├── <span class="built_in">source</span> // 主题的资源文件 CSS IMG</span><br><span class="line">└── <span class="built_in">test</span></span><br></pre></td></tr></table></figure></div>
+
+<h3 id="Hexo-的工作原理"><a href="#Hexo-的工作原理" class="headerlink" title="Hexo 的工作原理"></a>Hexo 的工作原理</h3><p> <a href="https://img-blog.csdnimg.cn/20200117151119504.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQ0MjMyOTc2,size_16,color_FFFFFF,t_70" data-fancybox="group" data-caption="在这里插入图片描述" class="fancybox"><img alt="在这里插入图片描述" title="在这里插入图片描述" data-src="https://img-blog.csdnimg.cn/20200117151119504.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQ0MjMyOTc2,size_16,color_FFFFFF,t_70" src="/img/loading.gif" class="lazyload"></a><br>如上图，(用户通过浏览器访问到的)git page上的博客网站其实是<code>hexo generate</code>之后生成的<code>public</code>目录下的内容。<br>所以，一个hexo博客项目应该有两个仓库:</p>
+<blockquote>
+<ol>
+<li>(基于<code>hexo init</code>结果的)博客编写仓库。可以把这个项目看成一个代码库，用来”开发”博客网站(包含写博客，生成博客等任务)</li>
+<li>存放(<code>hexo generate</code>结果的)public目录仓库。这个项目是”只读”的，我们不会直接修改这个仓库的内容，我们也不会对这个仓库直接进行<code>git pull、git commit、git push</code>等常规操作。这个仓库的内容就是public目下的内容，即是通过<code>hexo generate产生、hexo deploy</code>提交的。</li>
+</ol>
+</blockquote>
+<h3 id="Hexo-每次部署的流程"><a href="#Hexo-每次部署的流程" class="headerlink" title="Hexo 每次部署的流程"></a>Hexo 每次部署的流程</h3><ol>
+<li><code>hexo g</code>：生成静态文件。将我们的数据和界面相结合生成静态文件的过程。会遍历主题文件中的 source 文件夹（js、css、img 等静态资源），然后建立索引，然后根据索引生成 pubild 文件夹中，此时的 publid 文件是由 html、 js、css、img 建立的纯静态文件可以通过 index.html 作为入口访问你的博客。</li>
+<li><code>hexo d</code>：部署文件。部署主要是根据在<code>_config.yml</code> 中配置的 git 仓库或者 coding 的地址，将<code>public</code> 文件上传至 github 或者 coding 中。然后再根据上面的 github 提供的 pages 服务呈现出页面。当然你也可以直接将你生成的 <code>public</code> 文件上传至你自己的服务器上。<h3 id="Hexo-的模板引擎"><a href="#Hexo-的模板引擎" class="headerlink" title="Hexo 的模板引擎"></a>Hexo 的模板引擎</h3>模板引擎的作用，就是将界面与数据分离。最简单的原理是将模板内容中指定的地方替换成数据，实现业务代码与逻辑代码分离。<br>我们可以注意到，在 Hexo 中，<code>source</code> 文件夹和<code>themes</code>文件夹是在同级的，我们就可以将<code>source</code>文件夹理解为数据库，而主题文件夹相当于 界面。然后我们 hexo g 就将我们的数据和界面相结合生成静态文件 <code>public</code>。<br>Hexo 的模板引擎是默认使用 ejs 编写的。hexo首先会解析 <code>md</code> 文件，然后根据 <code>layout</code> 判断布局类型，再调用其他的文件，这样每一块的内容都是独立的，提高代码的复用性。最终会生成一个 html 页面。<h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2>非要说 Hexo 是什么的话，我觉得就是生成静态页面的工具，可以将我们使用 markdown 编写的内容与主题模板相结合，生成 HTML 静态文件。并且可以和 github 的 pages 或者其他可以将静态页面展现出来的服务（例如 coding 的 pages 服务）相结合，一键部署。<br>再深入一点讲 Hexo 的原理的话，那就应该是使用 <code>yaml</code>语言 做配置文件，使用 <code>ejs</code> 或者<code>swig</code> 作为主题模板，与使用 markdown 书写的内容结合，生成静态 HTML 文件。</li>
+</ol>
+<hr>
+<p>参考文献：</p>
+<blockquote>
+<ul>
+<li>Hexo Docs 写一个自己的Hexo主题</li>
+<li>Hexo 主题制作指南<ul>
+<li>hexo原理浅析</li>
+</ul>
+</li>
+</ul>
+</blockquote>
+<p>© 著作权归原作者所有</p>
+<a id="more"></a>
+]]></content>
+      <categories>
+        <category>技术开发知识</category>
+      </categories>
+      <tags>
+        <tag>hexo</tag>
+        <tag>blog</tag>
+        <tag>github</tag>
+        <tag>github pages</tag>
       </tags>
   </entry>
 </search>
