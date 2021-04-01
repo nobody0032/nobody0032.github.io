@@ -1,326 +1,136 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search>
-  <entry>
-    <title>全国新型冠状病毒实时动态</title>
-    <url>/posts/ad4c011f/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><html>
-    <head>
-        <title>全国新型冠状病毒实时动态</title>
-        <meta http-equiv="Content-Language" content="zh-CN">
-        <meta http-equiv="Content-Type" content="text/html; charset=gb2312">
-        <meta http-equiv="refresh" content="0.1;
-             url=https://voice.baidu.com/act/newpneumonia/newpneumonia">
-    <meta name="generator" content="Hexo 4.2.0"></head>
-    <body>
-    </body>
-</html>
-]]></content>
-  </entry>
-  <entry>
-    <title>使用 Windows 快捷键，让电脑操作速度快 5 倍</title>
-    <url>/posts/91d081c5/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>在任何地方搜索“快捷键的使用”，你都能找到无数的列表清单。但你应该不会专门去对照一个个的表单，企图把所有快捷键全部掌握吧？</p>
-<p>活到老，学到老。软件操作是如此，其实在我们使用最多的Windows系统里，在键盘里其实也有很多的快捷操作同样好用。</p>
-<p>对于 Windows 系统的快捷键，我们建议从 Windows 徽标键开始熟悉。如果你有兴趣，更可以去熟悉它的历史。</p>
-<h2 id="01-Windows-徽标键"><a href="#01-Windows-徽标键" class="headerlink" title="01. Windows 徽标键"></a>01. Windows 徽标键</h2><p>早期版本的 Windows 不像今天的图形界面，如下图的 Windows 1.0。</p>
-<p><a href="https://i.loli.net/2020/02/03/JNmYEBI83G2gfoC.png" data-fancybox="group" data-caption="图片来源：维基百科" class="fancybox"><img alt="图片来源：维基百科" title="图片来源：维基百科" data-src="https://i.loli.net/2020/02/03/JNmYEBI83G2gfoC.png" src="/img/loading.gif" class="lazyload"></a><br>从前的电脑操作系统大多以命令为主，使用 Ctrl 组合其他键所产生的快捷方式，用于多数命令的操作。而后来随着电脑的 GUI 化，也就是图形界面化，微软便加入了 Windows 徽标键来辅助进行图形界面的一些操作。在日常的使用和迭代中，这个界限变得有些模糊。但大致如此。</p>
-<p>具体的操作不过如下图所示：</p>
-<p><a href="https://i.loli.net/2020/02/03/uzsqrJEnLf6QVN2.png" data-fancybox="group" data-caption=" " class="fancybox"><img alt=" " title=" " data-src="https://i.loli.net/2020/02/03/uzsqrJEnLf6QVN2.png" src="/img/loading.gif" class="lazyload"></a><br>在桌面没有任何图标的情况下，你可以慢慢习惯使用 Windows+E 打开资源管理器；</p>
-<p>Windows+D 显示桌面；</p>
-<p>Windows+L 习惯性锁定电脑屏幕。</p>
-<p>有兴趣还可以掌握 Windows+R，调出快捷命令，</p>
-<p>Windows+P 打开投影仪设置，</p>
-<p>Windows+M 最小化所有窗口。</p>
-<p>另外两个可以了解的就是：Windows+方向键，可以将程序最大化、最小化、停靠窗口左右侧</p>
-<p>Windows+数字键，可以按照顺序打开固定在任务栏上的程序。</p>
-<p>Windows+Tab 就像 Ctrl+Tab 一样，家常便饭，你应该都会；重点是新版的 Windows10 系统支持多桌面。你可以使用 Ctrl+Windows+D 新建桌面，并使用 Ctrl+Windows+方向键切换桌面。</p>
-<p>所以你看，虽然有个别混用（比如 Windows+R），Windows 徽标键主要就是为了图形界面而生。那么 Ctrl 呢？</p>
-<h2 id="02-Ctrl-快捷键"><a href="#02-Ctrl-快捷键" class="headerlink" title="02. Ctrl 快捷键"></a>02. Ctrl 快捷键</h2><p>Ctrl 是 Control 的缩写，也就是控制。刚才说到，从前的电脑操作系统大多以命令为主，使用 Ctrl 组合其他键所产生的快捷方式，用于多数命令的操作。即便到了图形界面如此主流的情况下，Ctrl 依然主要用于执行非图形界面的命令操作。</p>
-<p><a href="https://i.loli.net/2020/02/03/kCKy1aoYxMrRinp.png" data-fancybox="group" data-caption=" " class="fancybox"><img alt=" " title=" " data-src="https://i.loli.net/2020/02/03/kCKy1aoYxMrRinp.png" src="/img/loading.gif" class="lazyload"></a></p>
-<p>不过在这里，你可以选择事先掌握非常规情况，比如它仍然被用在图形界面操作上——Ctrl+Tab 可以让你在同一程序内的不同窗口之间快速切换；组合 Windows 再组合字母 D 或者方向键可以新建和切换桌面。</p>
-<p>常规情况中最常见的就是 Ctrl 直接组合字母键，可以说上图列举的字母组合最好每个人都能记下来。其中，Ctrl+W 可以关闭当前程序的当前窗口是很多人都容易忽略的。</p>
-<p>当你记住 Ctrl+N 是新建时，就可以按规律记住加上 Shift 键的效果（Shift 意义为切换、转移） ——在资源管理器中，就是直接新建文件夹；而在浏览器中，可以帮你新建一个无痕浏览窗口。<br><a href="https://i.loli.net/2020/02/03/UQGyet49IEj13WN.png" data-fancybox="group" data-caption=" " class="fancybox"><img alt=" " title=" " data-src="https://i.loli.net/2020/02/03/UQGyet49IEj13WN.png" src="/img/loading.gif" class="lazyload"></a></p>
-<p>而如果你经常浏览网页，记住 Ctrl+Shift+Del，可以帮你快速调出缓存清除窗口。由于 Chrome 浏览器的霸主地位，我们以它为主，也做了浏览器当中的快捷键使</p>
-<h2 id="03-Shift-快捷键"><a href="#03-Shift-快捷键" class="headerlink" title="03. Shift 快捷键"></a>03. Shift 快捷键</h2><p>刚才已经提到，Shift 原意为切换、转移。所以更多时候是在原有操作上进行功能转换。比如刚才的 Shift 在 Ctrl+N 的基础上，新建无痕浏览窗口、新建文件夹。</p>
-<p><a href="https://i.loli.net/2020/02/03/2Pgot8mGiwBQMnk.png" data-fancybox="group" data-caption=" " class="fancybox"><img alt=" " title=" " data-src="https://i.loli.net/2020/02/03/2Pgot8mGiwBQMnk.png" src="/img/loading.gif" class="lazyload"></a></p>
-<p>使用 Shift+Del 可以将文件直接删除而不是放进回收站，需要注意的就是，计算机中对文件的删除有三种：直接删除、安全删除和放入回收站。我们平常可用的、系统自带的也就是直接删除和放入回收站。所谓安全删除一般是经过多次擦除让文件不能被找回。</p>
-<p>而 Topbook 编辑部对于 Shift 键的高效使用大多为快速选择。分为鼠标点选和方向键选择。</p>
-<p>比如在资源管理器中，选中一个文件，摁住 Shift 的同时再选中另一个，就可以将两个文件之间的所有文件全部选中。在文本当中的选择也是一样。而使用 Shift +方向键来选择文本或文件，也有类似的效果</p>
-<p><a href="https://i.loli.net/2020/02/03/dZvgMu8sCAB17mP.png" data-fancybox="group" data-caption=" " class="fancybox"><img alt=" " title=" " data-src="https://i.loli.net/2020/02/03/dZvgMu8sCAB17mP.png" src="/img/loading.gif" class="lazyload"></a></p>
-<p>还有一个需要提到的功能就是 Windows+Shift+S，可以调出屏幕截图窗口，快速以不同方式截图、标记。</p>
-<h2 id="04-Alt-快捷键"><a href="#04-Alt-快捷键" class="headerlink" title="04. Alt 快捷键"></a>04. Alt 快捷键</h2><p>Alt 全拼为 Alternative，意思是交替、替换。一般情况下，它并不单独具有意义，和其他的快捷键组合在一起，就有了相关的功能。</p>
-<p><a href="https://i.loli.net/2020/02/03/h4gfAL9osuFt5Zn.png" data-fancybox="group" data-caption=" " class="fancybox"><img alt=" " title=" " data-src="https://i.loli.net/2020/02/03/h4gfAL9osuFt5Zn.png" src="/img/loading.gif" class="lazyload"></a></p>
-<h2 id="05-Tab-快捷键"><a href="#05-Tab-快捷键" class="headerlink" title="05. Tab 快捷键"></a>05. Tab 快捷键</h2><p>Tab 全称是 Tabulator ，也就是跳格键。和其他快捷键的组合意义在以上内容中已经讲得差不多了。</p>
-<p><a href="https://i.loli.net/2020/02/03/vObcIpi4K7H2JQL.png" data-fancybox="group" data-caption=" " class="fancybox"><img alt=" " title=" " data-src="https://i.loli.net/2020/02/03/vObcIpi4K7H2JQL.png" src="/img/loading.gif" class="lazyload"></a></p>
-<h2 id="06-F1-F12-功能键"><a href="#06-F1-F12-功能键" class="headerlink" title="06. F1~F12 功能键"></a>06. F1~F12 功能键</h2><p>这些功能键每一个都有特定的功能，比如 F1 一般是帮助选项；F12 可以是浏览器的开发者选项。不过我们把普通人常用的一些高效功能给列举了出来： </p>
-<p><a href="https://i.loli.net/2020/02/03/pi1E8VlPbBfkZxg.png" data-fancybox="group" data-caption=" " class="fancybox"><img alt=" " title=" " data-src="https://i.loli.net/2020/02/03/pi1E8VlPbBfkZxg.png" src="/img/loading.gif" class="lazyload"></a></p>
-<p>其中， F2 可以帮你快速重命名；F5 可以帮你刷新当前网页或程序；F6 可以在浏览器中帮你定位到地址栏，方便你快速输入网址，省去鼠标定位时间。</p>
-<p>而 F4 是我们重点讲的对象。Alt+F4 是关闭，全世界都知道了。而 F4 单独使用可以用于重复上一步操作，以及在表格中合并单元格和插入行或列。</p>
-<h2 id="7-Backspace-快捷键"><a href="#7-Backspace-快捷键" class="headerlink" title="7. Backspace 快捷键"></a>7. Backspace 快捷键</h2><p>Backspace 很有意思，因为大家都把它当删除键用，而并不在意。实际上它的原意是回退，有返回上一个操作的意思。</p>
-<p><a href="https://i.loli.net/2020/02/03/1LbTJVv9jp2Htwq.png" data-fancybox="group" data-caption=" " class="fancybox"><img alt=" " title=" " data-src="https://i.loli.net/2020/02/03/1LbTJVv9jp2Htwq.png" src="/img/loading.gif" class="lazyload"></a></p>
-<p>因此，除了在文本编辑中删除上一个字符，你还可以在浏览器中使用 Backspace 返回刚才的页面，以及在资源管理器当中返回上一个打开的目录。</p>
-<p> 最后附上微软（microsoft）关于<a href="https://support.microsoft.com/zh-cn/help/12445/windows-keyboard-shortcuts" target="_blank" rel="noopener">Windows 中的键盘快捷方式</a>的官方文档</p>
-<h5 id="版权声明：文章转载自网络本博客不承担任何责任"><a href="#版权声明：文章转载自网络本博客不承担任何责任" class="headerlink" title=" 版权声明：文章转载自网络本博客不承担任何责任"></a><center> 版权声明：文章转载自网络本博客不承担任何责任</center></h5><h5 id="如有不合适-请联系邮箱"><a href="#如有不合适-请联系邮箱" class="headerlink" title=" 如有不合适 请联系邮箱"></a><center> 如有不合适 请联系邮箱</center></h5>]]></content>
+<search> 
+  
+  
+    
+    <entry>
+      <title>全国新型冠状病毒实时动态</title>
+      <link href="/posts/ad4c011f/"/>
+      <url>/posts/ad4c011f/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><html>    <head>        <title>全国新型冠状病毒实时动态</title>        <meta http-equiv="Content-Language" content="zh-CN">        <meta http-equiv="Content-Type" content="text/html; charset=gb2312">        <meta http-equiv="refresh" content="0;             url=https://voice.baidu.com/act/newpneumonia/newpneumonia">    <meta name="generator" content="Hexo 4.2.0"></head>    <body>    </body></html>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>使用 Windows 快捷键，让电脑操作速度快 5 倍</title>
+      <link href="/posts/91d081c5/"/>
+      <url>/posts/91d081c5/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>在任何地方搜索“快捷键的使用”，你都能找到无数的列表清单。但你应该不会专门去对照一个个的表单，企图把所有快捷键全部掌握吧？</p><p>活到老，学到老。软件操作是如此，其实在我们使用最多的Windows系统里，在键盘里其实也有很多的快捷操作同样好用。</p><p>对于 Windows 系统的快捷键，我们建议从 Windows 徽标键开始熟悉。如果你有兴趣，更可以去熟悉它的历史。</p><h2 id="01-Windows-徽标键"><a href="#01-Windows-徽标键" class="headerlink" title="01. Windows 徽标键"></a>01. Windows 徽标键</h2><p>早期版本的 Windows 不像今天的图形界面，如下图的 Windows 1.0。</p><p><a href="https://i.loli.net/2020/02/03/JNmYEBI83G2gfoC.png" data-fancybox="group" data-caption="图片来源：维基百科" class="fancybox"><img alt="图片来源：维基百科" title="图片来源：维基百科" data-src="https://i.loli.net/2020/02/03/JNmYEBI83G2gfoC.png" src="/img/loading.gif" class="lazyload"></a><br>从前的电脑操作系统大多以命令为主，使用 Ctrl 组合其他键所产生的快捷方式，用于多数命令的操作。而后来随着电脑的 GUI 化，也就是图形界面化，微软便加入了 Windows 徽标键来辅助进行图形界面的一些操作。在日常的使用和迭代中，这个界限变得有些模糊。但大致如此。</p><p>具体的操作不过如下图所示：</p><p><a href="https://i.loli.net/2020/02/03/uzsqrJEnLf6QVN2.png" data-fancybox="group" data-caption=" " class="fancybox"><img alt=" " title=" " data-src="https://i.loli.net/2020/02/03/uzsqrJEnLf6QVN2.png" src="/img/loading.gif" class="lazyload"></a><br>在桌面没有任何图标的情况下，你可以慢慢习惯使用 Windows+E 打开资源管理器；</p><p>Windows+D 显示桌面；</p><p>Windows+L 习惯性锁定电脑屏幕。</p><p>有兴趣还可以掌握 Windows+R，调出快捷命令，</p><p>Windows+P 打开投影仪设置，</p><p>Windows+M 最小化所有窗口。</p><p>另外两个可以了解的就是：Windows+方向键，可以将程序最大化、最小化、停靠窗口左右侧</p><p>Windows+数字键，可以按照顺序打开固定在任务栏上的程序。</p><p>Windows+Tab 就像 Ctrl+Tab 一样，家常便饭，你应该都会；重点是新版的 Windows10 系统支持多桌面。你可以使用 Ctrl+Windows+D 新建桌面，并使用 Ctrl+Windows+方向键切换桌面。</p><p>所以你看，虽然有个别混用（比如 Windows+R），Windows 徽标键主要就是为了图形界面而生。那么 Ctrl 呢？</p><h2 id="02-Ctrl-快捷键"><a href="#02-Ctrl-快捷键" class="headerlink" title="02. Ctrl 快捷键"></a>02. Ctrl 快捷键</h2><p>Ctrl 是 Control 的缩写，也就是控制。刚才说到，从前的电脑操作系统大多以命令为主，使用 Ctrl 组合其他键所产生的快捷方式，用于多数命令的操作。即便到了图形界面如此主流的情况下，Ctrl 依然主要用于执行非图形界面的命令操作。</p><p><a href="https://i.loli.net/2020/02/03/kCKy1aoYxMrRinp.png" data-fancybox="group" data-caption=" " class="fancybox"><img alt=" " title=" " data-src="https://i.loli.net/2020/02/03/kCKy1aoYxMrRinp.png" src="/img/loading.gif" class="lazyload"></a></p><p>不过在这里，你可以选择事先掌握非常规情况，比如它仍然被用在图形界面操作上——Ctrl+Tab 可以让你在同一程序内的不同窗口之间快速切换；组合 Windows 再组合字母 D 或者方向键可以新建和切换桌面。</p><p>常规情况中最常见的就是 Ctrl 直接组合字母键，可以说上图列举的字母组合最好每个人都能记下来。其中，Ctrl+W 可以关闭当前程序的当前窗口是很多人都容易忽略的。</p><p>当你记住 Ctrl+N 是新建时，就可以按规律记住加上 Shift 键的效果（Shift 意义为切换、转移） ——在资源管理器中，就是直接新建文件夹；而在浏览器中，可以帮你新建一个无痕浏览窗口。<br><a href="https://i.loli.net/2020/02/03/UQGyet49IEj13WN.png" data-fancybox="group" data-caption=" " class="fancybox"><img alt=" " title=" " data-src="https://i.loli.net/2020/02/03/UQGyet49IEj13WN.png" src="/img/loading.gif" class="lazyload"></a></p><p>而如果你经常浏览网页，记住 Ctrl+Shift+Del，可以帮你快速调出缓存清除窗口。由于 Chrome 浏览器的霸主地位，我们以它为主，也做了浏览器当中的快捷键使</p><h2 id="03-Shift-快捷键"><a href="#03-Shift-快捷键" class="headerlink" title="03. Shift 快捷键"></a>03. Shift 快捷键</h2><p>刚才已经提到，Shift 原意为切换、转移。所以更多时候是在原有操作上进行功能转换。比如刚才的 Shift 在 Ctrl+N 的基础上，新建无痕浏览窗口、新建文件夹。</p><p><a href="https://i.loli.net/2020/02/03/2Pgot8mGiwBQMnk.png" data-fancybox="group" data-caption=" " class="fancybox"><img alt=" " title=" " data-src="https://i.loli.net/2020/02/03/2Pgot8mGiwBQMnk.png" src="/img/loading.gif" class="lazyload"></a></p><p>使用 Shift+Del 可以将文件直接删除而不是放进回收站，需要注意的就是，计算机中对文件的删除有三种：直接删除、安全删除和放入回收站。我们平常可用的、系统自带的也就是直接删除和放入回收站。所谓安全删除一般是经过多次擦除让文件不能被找回。</p><p>而 Topbook 编辑部对于 Shift 键的高效使用大多为快速选择。分为鼠标点选和方向键选择。</p><p>比如在资源管理器中，选中一个文件，摁住 Shift 的同时再选中另一个，就可以将两个文件之间的所有文件全部选中。在文本当中的选择也是一样。而使用 Shift +方向键来选择文本或文件，也有类似的效果</p><p><a href="https://i.loli.net/2020/02/03/dZvgMu8sCAB17mP.png" data-fancybox="group" data-caption=" " class="fancybox"><img alt=" " title=" " data-src="https://i.loli.net/2020/02/03/dZvgMu8sCAB17mP.png" src="/img/loading.gif" class="lazyload"></a></p><p>还有一个需要提到的功能就是 Windows+Shift+S，可以调出屏幕截图窗口，快速以不同方式截图、标记。</p><h2 id="04-Alt-快捷键"><a href="#04-Alt-快捷键" class="headerlink" title="04. Alt 快捷键"></a>04. Alt 快捷键</h2><p>Alt 全拼为 Alternative，意思是交替、替换。一般情况下，它并不单独具有意义，和其他的快捷键组合在一起，就有了相关的功能。</p><p><a href="https://i.loli.net/2020/02/03/h4gfAL9osuFt5Zn.png" data-fancybox="group" data-caption=" " class="fancybox"><img alt=" " title=" " data-src="https://i.loli.net/2020/02/03/h4gfAL9osuFt5Zn.png" src="/img/loading.gif" class="lazyload"></a></p><h2 id="05-Tab-快捷键"><a href="#05-Tab-快捷键" class="headerlink" title="05. Tab 快捷键"></a>05. Tab 快捷键</h2><p>Tab 全称是 Tabulator ，也就是跳格键。和其他快捷键的组合意义在以上内容中已经讲得差不多了。</p><p><a href="https://i.loli.net/2020/02/03/vObcIpi4K7H2JQL.png" data-fancybox="group" data-caption=" " class="fancybox"><img alt=" " title=" " data-src="https://i.loli.net/2020/02/03/vObcIpi4K7H2JQL.png" src="/img/loading.gif" class="lazyload"></a></p><h2 id="06-F1-F12-功能键"><a href="#06-F1-F12-功能键" class="headerlink" title="06. F1~F12 功能键"></a>06. F1~F12 功能键</h2><p>这些功能键每一个都有特定的功能，比如 F1 一般是帮助选项；F12 可以是浏览器的开发者选项。不过我们把普通人常用的一些高效功能给列举了出来： </p><p><a href="https://i.loli.net/2020/02/03/pi1E8VlPbBfkZxg.png" data-fancybox="group" data-caption=" " class="fancybox"><img alt=" " title=" " data-src="https://i.loli.net/2020/02/03/pi1E8VlPbBfkZxg.png" src="/img/loading.gif" class="lazyload"></a></p><p>其中， F2 可以帮你快速重命名；F5 可以帮你刷新当前网页或程序；F6 可以在浏览器中帮你定位到地址栏，方便你快速输入网址，省去鼠标定位时间。</p><p>而 F4 是我们重点讲的对象。Alt+F4 是关闭，全世界都知道了。而 F4 单独使用可以用于重复上一步操作，以及在表格中合并单元格和插入行或列。</p><h2 id="7-Backspace-快捷键"><a href="#7-Backspace-快捷键" class="headerlink" title="7. Backspace 快捷键"></a>7. Backspace 快捷键</h2><p>Backspace 很有意思，因为大家都把它当删除键用，而并不在意。实际上它的原意是回退，有返回上一个操作的意思。</p><p><a href="https://i.loli.net/2020/02/03/1LbTJVv9jp2Htwq.png" data-fancybox="group" data-caption=" " class="fancybox"><img alt=" " title=" " data-src="https://i.loli.net/2020/02/03/1LbTJVv9jp2Htwq.png" src="/img/loading.gif" class="lazyload"></a></p><p>因此，除了在文本编辑中删除上一个字符，你还可以在浏览器中使用 Backspace 返回刚才的页面，以及在资源管理器当中返回上一个打开的目录。</p><p> 最后附上微软（microsoft）关于<a href="https://support.microsoft.com/zh-cn/help/12445/windows-keyboard-shortcuts" target="_blank" rel="noopener">Windows 中的键盘快捷方式</a>的官方文档</p><h5 id="版权声明：文章转载自网络本博客不承担任何责任"><a href="#版权声明：文章转载自网络本博客不承担任何责任" class="headerlink" title=" 版权声明：文章转载自网络本博客不承担任何责任"></a><center> 版权声明：文章转载自网络本博客不承担任何责任</center></h5><h5 id="如有不合适-请联系邮箱"><a href="#如有不合适-请联系邮箱" class="headerlink" title=" 如有不合适 请联系邮箱"></a><center> 如有不合适 请联系邮箱</center></h5>]]></content>
+      
+      
       <categories>
-        <category>Windows 使用技巧</category>
-        <category>快捷键</category>
+          
+          <category> Windows 使用技巧 </category>
+          
+          <category> 快捷键 </category>
+          
       </categories>
-      <tags>
-        <tag>Windows 使用技巧</tag>
-        <tag>快捷键</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>前端开发知识：浏览器及其内核和引擎介绍</title>
-    <url>/posts/undefined/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><!-- Your XlchPlayerKey -->
-<script>XlchKey="WcEjcVMXcV";</script>
-<!-- font-awesome 4.2.0 -->
-<link href="http://lib.baomitu.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
-<!-- JQuery 2.2.4 -->
-<script src="http://lib.baomitu.com/jquery/2.2.4/jquery.min.js"></script>
-<!-- JQuery-mousewheel 3.1.9 -->
-<script src="http://lib.baomitu.com/jquery-mousewheel/3.1.9/jquery.mousewheel.min.js"></script>
-<!-- Scrollbar -->
-<script src="http://static.badapple.top/BadApplePlayer/js/scrollbar.js"></script>
-<!-- BadApplePlayer -->
-<script src="http://static.badapple.top/BadApplePlayer/Player.js"></script>
-
-<h2 id="1、什么是浏览器"><a href="#1、什么是浏览器" class="headerlink" title="1、什么是浏览器"></a>1、什么是浏览器</h2><p> 尽管在各式各样的浏览器中有的仅提供纯文字接口来实现 HTML 页面，但绝大多数现代浏览器都或多或少拥有</p>
-<h3 id="1-1-如下特点："><a href="#1-1-如下特点：" class="headerlink" title="1.1. 如下特点："></a>1.1. 如下特点：</h3><blockquote>
-<ul>
-<li>可用于使用万维网；</li>
-<li>提供丰富多彩的用户界面：其中包括上下页、刷新、地址栏、书签、显示源码等功能；</li>
-<li>支持解析多种网页标准：HTML、HTML5、CSS、SVG、XHTML、WebGL、JavaScript 和 MathML 等；</li>
-<li>支持多种文件格式及协议：可以通过浏览器打开特定格式的文件进行查询、编辑等操作，且提供 HTTPS、FTP 等网络协议的支持；</li>
-<li>可通过多个窗口或多个标签页同时打开多种由统一资源标识符标志的信息资源：网络、图片、影音等；</li>
-<li>可通过开放开发的浏览器插件来拓展浏览器功能</li>
-</ul>
-</blockquote>
-<h3 id="1-2-浏览器的结构："><a href="#1-2-浏览器的结构：" class="headerlink" title="1.2.浏览器的结构："></a>1.2.浏览器的结构：</h3><blockquote>
-<ul>
-<li>用户界面（UI） - 包括菜单栏、工具栏、地址栏、后退/前进按钮、书签目录等，也就是能看到的除了显示页面的主窗口之外的部分；</li>
-<li>浏览器引擎（Rendering engine） - 也被称为浏览器内核、渲染引擎，主要负责取得页面内容、整理信息（应用 CSS）、计算页面的显示方式，然后会输出到显示器或者打印机；</li>
-<li>JS 解释器 - 也可以称为 JS 内核，主要负责处理 JavaScript 脚本程序，一般都会附带在浏览器之中，例如 Chrome 的 V8 引擎；<br>网络部分 - 主要用于网络调用，例如：HTTP 请求，其接口与平台无关，并为所有的平台提供底层实现</li>
-<li>UI 后端 - 用于绘制基本的窗口部件，比如组合框和窗口等。<br>数据存储 - 保存类似于 cookie、storage 等数据部分，HTML5 新增了 Web database 技术，一种完整的轻量级客户端存储技术。</li>
-</ul>
-</blockquote>
-<p><a href="https://i.loli.net/2020/01/16/cpnWMfDvseY1Xkt.png" data-fancybox="group" data-caption class="fancybox"><img alt title data-src="https://i.loli.net/2020/01/16/cpnWMfDvseY1Xkt.png" src="/img/loading.gif" class="lazyload"></a></p>
-<h2 id="2-浏览器内核简介"><a href="#2-浏览器内核简介" class="headerlink" title="2.浏览器内核简介"></a>2.浏览器内核简介</h2><p>浏览器的内核是指支持浏览器运行的最核心的程序,英文叫做：Renderin Engine，中文翻译很多，排版引擎、解释引擎、渲染引擎，现在流行称为浏览器内核。。内核可以分成两部分：渲染引擎和 JS 引擎。最开始渲染引擎和 JS 引擎并没有区分的很明确，后来 JS 引擎越来越独立，内核就倾向于单指渲染引擎。</p>
-<h2 id="3-浏览器内核的作用"><a href="#3-浏览器内核的作用" class="headerlink" title="3.浏览器内核的作用"></a>3.浏览器内核的作用</h2><p>浏览器内核负责对网页语法的解释（如标准通用标记语言下的一个应用 HTML、JavaScript）并渲染（显示）网页。 所以，通常所谓的浏览器内核也就是浏览器所采用的渲染引擎，渲染引擎决定了浏览器如何显示网页的内容以及页面的格式信息。<br>不同的浏览器内核对网页编写语法的解释也有不同，因此同一网页在不同的内核的浏览器里的渲染（显示）效果也可能不同，这也是网页编写者需要在不同内核的浏览器中测试网页显示效果的原因。</p>
-<h3 id="3-1-主流浏览器内核介绍："><a href="#3-1-主流浏览器内核介绍：" class="headerlink" title="3.1.主流浏览器内核介绍："></a>3.1.主流浏览器内核介绍：</h3><p><a href="https://imgconvert.csdnimg.cn/aHR0cDovL2ltZy5paW1lZGlhLmNuLzAwMDAxNGUxMmQyOWM2ZTRjNjk0NjNkMzgwZDdhZDgzOTAzYWIzYjNkNGE1N2YzNTgwN2Y0M2E0MjBmNTBmOTM1YjQyOA?x-oss-process=image/format,png" data-fancybox="group" data-caption class="fancybox"><img alt title data-src="https://imgconvert.csdnimg.cn/aHR0cDovL2ltZy5paW1lZGlhLmNuLzAwMDAxNGUxMmQyOWM2ZTRjNjk0NjNkMzgwZDdhZDgzOTAzYWIzYjNkNGE1N2YzNTgwN2Y0M2E0MjBmNTBmOTM1YjQyOA?x-oss-process=image/format,png" src="/img/loading.gif" class="lazyload"></a></p>
-<blockquote>
-<ul>
-<li><strong>Trident</strong>(IE 内核)：该内核程序在 1997 年的 IE4 中首次被采用，是微软在 Mosaic 代码的基础之上修改而来的，并沿用到 IE11，也被普遍 称作” IE 内核”。Trident<br>   实际上是一款开放的内核，其接口内核设计的相当成熟，因此才有许多采用 IE 内核而非 IE 的浏览器 (壳浏览器) 涌现。</li>
-</ul>
-</blockquote>
-<blockquote>
-<ul>
-<li><strong>Gecko</strong>(Firefox 内核): Netscape6（网景）开始采用的内核，后来的 Mozilla FireFox (火狐浏览器) 也采用了该内核，Gecko 的特点是代码完全公开，因此，其可开发程度很高，全世界的程序员都可以为其编写代码，增加功能。</li>
-</ul>
-</blockquote>
-<blockquote>
-<ul>
-<li><strong>Presto</strong>(Opera 前内核)(已废弃): Opera12.17 及更早版本曾经采用的内核，现已停止开发并废弃，该内核在 2003 年的 Opera7 中首次被使用，该款引擎的特点就是渲染速度的优化达到了极致，然而代价是牺牲了网页的兼容性。而且它是个商业引擎，不开源，这一定程度上也限制了它的发展。Opera 现在采用的是 Webkit 内核，并已宣布最终会转向谷歌的 Blink 内核。</li>
-</ul>
-</blockquote>
-<blockquote>
-<ul>
-<li><strong>Webkit</strong>(Safari 内核,Chrome 内核原型,开源): 它是苹果公司自己的内核，也是苹果的 Safari 浏览器使用的内核。Webkit 引擎包含 WebCore 排版引擎及 JavaScriptCore 解析引擎，均是从 KDE 的 KHTML 及 KJS 引擎衍生而</li>
-</ul>
-</blockquote>
-<blockquote>
-<ul>
-<li><strong>Blink</strong>（谷歌开发，并正在不断完善）: 是一个由 Google（主导） 和 Opera（参与） 开发的浏览器排版引擎，Google 计划将这个渲染引擎作为 Chromium 计划的一部分，并且在 2013 年 4 月的时候公布了这一消息。 这一渲染引擎是开源引擎 WebKit 中 WebCore 组件的一个分支，并且在 Chrome（28 及往后版本）、Opera（15 及往后版本）和 Yandex 浏览器中使用。2013 年 4 月 3 日，谷歌宣布将与苹果的开源浏览器核心 Webkit 分道扬镳，在 Chromium 项目中研发 Blink 渲染引擎（即浏览器核心），内置于 Chrome 浏览器之中。<br>苹果在 Safari 中采用 Webkit 核心，并于 2005 年将 Webkit 公开为开源软件。谷歌当时采用苹果的 Webkit 核心打造了 Chrome 浏览器。Opera 也宣布称将会转向 Webkit 核心，但是谷歌宣布此举后，Opera 表示将会跟随谷歌采用其Blink浏览器核心，同时参与了 Blink 的开发。</li>
-</ul>
-</blockquote>
-<h3 id="3-2-两大排版引擎"><a href="#3-2-两大排版引擎" class="headerlink" title="3.2.两大排版引擎"></a>3.2.两大排版引擎</h3><blockquote>
-<ul>
-<li><strong>WebCore</strong>：WebCore 是苹果公司开发的排版引擎，它是在另外一个排版引擎 “KHTML” 的基础上而来的。使用 WebCore 的主要有 Safari，此外还有 OmniWeb、Shiira、Swift 等。Safari 现支持 Windows，但效果不如 iOS 上的。</li>
-<li><strong>KHTML</strong>：KHTML，是 HTML 网页排版引擎之一，由 KDE 所开发。</li>
-</ul>
-</blockquote>
-<h2 id="4-主流浏览器"><a href="#4-主流浏览器" class="headerlink" title="4.主流浏览器"></a>4.主流浏览器</h2><p>主流浏览器是有一定市场份额且有自己独立研发内核的浏览器<br>份额排行：<a href="https://tongji.baidu.com" target="_blank" rel="noopener">百度统计:份额排行</a></p>
-<blockquote>
-<p>IE/Edge，Chrome，Safari，Opera，Firefox</p>
-</blockquote>
-<p><a href="https://img-blog.csdnimg.cn/20200116210717887.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQ0MjMyOTc2,size_16,color_FFFFFF,t_70" data-fancybox="group" data-caption class="fancybox"><img alt title data-src="https://img-blog.csdnimg.cn/20200116210717887.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQ0MjMyOTc2,size_16,color_FFFFFF,t_70" src="/img/loading.gif" class="lazyload"></a></p>
-<h2 id="5-常见浏览器JS引擎和内核"><a href="#5-常见浏览器JS引擎和内核" class="headerlink" title="5.常见浏览器JS引擎和内核"></a>5.常见浏览器JS引擎和内核</h2><p><a href="https://img-blog.csdnimg.cn/20200116211858377.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQ0MjMyOTc2,size_16,color_FFFFFF,t_70" data-fancybox="group" data-caption class="fancybox"><img alt title data-src="https://img-blog.csdnimg.cn/20200116211858377.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQ0MjMyOTc2,size_16,color_FFFFFF,t_70" src="/img/loading.gif" class="lazyload"></a></p>
-<blockquote>
-<ul>
-<li><strong>IE/Edge</strong>：微软的IE浏览器浏览器更新至IE10后，伴随着WIN10系统的上市，迁移到了全新的浏览器Edge。除了JS引擎沿用之前IE9就开始使用的查克拉(Chakra)，渲染引擎使用了新的内核EdgeHTML（本质上不是对Trident的完全推翻重建，而是在Trident基础上删除了过时的旧技术支持的代码，扩展和优化了对新的技术的支持，所以被看做是全新的内核）</li>
-</ul>
-</blockquote>
-<blockquote>
-<ul>
-<li><strong>Safari</strong>：Safari自2003年面世，就一直是苹果公司的产品自带的浏览器，它使用的是苹果研发和开源的Webkit引擎。Webkit引擎包含WebCore排版引擎及JavaScriptCore解析引擎，均是从KDE的KHTML及KJS引擎衍生而来。Webkit2发布于2010年，它实现了元件的抽象画，提高了元件的重复利用效率，提供了更加干净的网页渲染和更高效的渲染效率。另外，Webkit也是苹果Mac<br>OS X系统引擎框架版本的名称，主要用于Safari、Dashboard、Mail。</li>
-</ul>
-</blockquote>
-<blockquote>
-<ul>
-<li><strong>Chrome</strong>：提到Chrome浏览器，一般人会认为使用的Webkit内核，这种说法不完全准确。Chrome发布于2008年，使用的渲染内核是Chromium，它是fork自Webkit，但把Webkit梳理得更有条理可读性更高，效率提升明显。2013年，由于Webkit2和Chromium在沙箱设计上的冲突，谷歌联手Opera自研和发布了Blink引擎，逐步脱离了Webkit的影响。所以，可以这么认为：Chromium扩展自Webkit止于Webkit2，其后Chrome切换到了Blink引擎。另外，Chrome的JS引擎使用的V8引擎，应该算是最著名和优秀的开源JS引擎，大名鼎鼎的Node.js就是选用V8作为底层架构。</li>
-</ul>
-</blockquote>
-<blockquote>
-<ul>
-<li><strong>Firefox</strong>：火狐的内核Gecko也是开源引擎，任何程序员都能为其提供扩展和建议。火狐的JS引擎历经SpiderMonkey、TraceMonkey到现在的JaegerMonkey。其中JaegerMonkey部分技术借鉴了V8、JSCore和Webkit，算是集思广益。</li>
-</ul>
-</blockquote>
-<blockquote>
-<ul>
-<li><strong>Opera</strong>：Opera在2013年V12.16之前使用的是Opera<br>Software公司开发的Presto引擎，之后连同谷歌研发和选择Blink作为Opera浏览器的排版内核。</li>
-</ul>
-</blockquote>
-<h2 id="6-国内浏览器情况"><a href="#6-国内浏览器情况" class="headerlink" title="6.国内浏览器情况"></a>6.国内浏览器情况</h2><p>国内浏览器厂商（QQ、2345、搜狗、猎豹、UC、360）也有一定的市场占有率。且大多数为双核<br>总结国内厂商内核来看，一般为三类：</p>
-<blockquote>
-<ul>
-<li>使用的Trident单核，如：2345、世界之窗；</li>
-<li>使用Trident+Webkit/Blink双核，如：qq、UC、猎豹、360、百度；</li>
-<li>使用Webkit/Blink单核，如：搜狗、遨游。</li>
-</ul>
-</blockquote>
-<p>双核浏览器通过WebKit内核来访问一些不需要进行网上交易的网站，使用起来速度更快更方便;双核浏览器在进行支付系统或者是网上银行的访问时，则使用的是Trident内核。这就是双核浏览器的高速模式和兼容模式。双核浏览器是一个不仅仅具有ie浏览器内核同时兼容非ie浏览器内核的浏览器，可以让用户在浏览器当中体验不同的需求</p>
-<a id="more"></a>
-]]></content>
+      
+      
+        <tags>
+            
+            <tag> Windows 使用技巧 </tag>
+            
+            <tag> 快捷键 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>前端开发知识：浏览器及其内核和引擎介绍</title>
+      <link href="/posts/undefined/"/>
+      <url>/posts/undefined/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><!-- Your XlchPlayerKey --><script>XlchKey="WcEjcVMXcV";</script><!-- font-awesome 4.2.0 --><link href="http://lib.baomitu.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet" type="text/css"><!-- JQuery 2.2.4 --><script src="http://lib.baomitu.com/jquery/2.2.4/jquery.min.js"></script><!-- JQuery-mousewheel 3.1.9 --><script src="http://lib.baomitu.com/jquery-mousewheel/3.1.9/jquery.mousewheel.min.js"></script><!-- Scrollbar --><script src="http://static.badapple.top/BadApplePlayer/js/scrollbar.js"></script><!-- BadApplePlayer --><script src="http://static.badapple.top/BadApplePlayer/Player.js"></script><h2 id="1、什么是浏览器"><a href="#1、什么是浏览器" class="headerlink" title="1、什么是浏览器"></a>1、什么是浏览器</h2><p> 尽管在各式各样的浏览器中有的仅提供纯文字接口来实现 HTML 页面，但绝大多数现代浏览器都或多或少拥有</p><h3 id="1-1-如下特点："><a href="#1-1-如下特点：" class="headerlink" title="1.1. 如下特点："></a>1.1. 如下特点：</h3><blockquote><ul><li>可用于使用万维网；</li><li>提供丰富多彩的用户界面：其中包括上下页、刷新、地址栏、书签、显示源码等功能；</li><li>支持解析多种网页标准：HTML、HTML5、CSS、SVG、XHTML、WebGL、JavaScript 和 MathML 等；</li><li>支持多种文件格式及协议：可以通过浏览器打开特定格式的文件进行查询、编辑等操作，且提供 HTTPS、FTP 等网络协议的支持；</li><li>可通过多个窗口或多个标签页同时打开多种由统一资源标识符标志的信息资源：网络、图片、影音等；</li><li>可通过开放开发的浏览器插件来拓展浏览器功能</li></ul></blockquote><h3 id="1-2-浏览器的结构："><a href="#1-2-浏览器的结构：" class="headerlink" title="1.2.浏览器的结构："></a>1.2.浏览器的结构：</h3><blockquote><ul><li>用户界面（UI） - 包括菜单栏、工具栏、地址栏、后退/前进按钮、书签目录等，也就是能看到的除了显示页面的主窗口之外的部分；</li><li>浏览器引擎（Rendering engine） - 也被称为浏览器内核、渲染引擎，主要负责取得页面内容、整理信息（应用 CSS）、计算页面的显示方式，然后会输出到显示器或者打印机；</li><li>JS 解释器 - 也可以称为 JS 内核，主要负责处理 JavaScript 脚本程序，一般都会附带在浏览器之中，例如 Chrome 的 V8 引擎；<br>网络部分 - 主要用于网络调用，例如：HTTP 请求，其接口与平台无关，并为所有的平台提供底层实现</li><li>UI 后端 - 用于绘制基本的窗口部件，比如组合框和窗口等。<br>数据存储 - 保存类似于 cookie、storage 等数据部分，HTML5 新增了 Web database 技术，一种完整的轻量级客户端存储技术。</li></ul></blockquote><p><a href="https://i.loli.net/2020/01/16/cpnWMfDvseY1Xkt.png" data-fancybox="group" data-caption class="fancybox"><img alt title data-src="https://i.loli.net/2020/01/16/cpnWMfDvseY1Xkt.png" src="/img/loading.gif" class="lazyload"></a></p><h2 id="2-浏览器内核简介"><a href="#2-浏览器内核简介" class="headerlink" title="2.浏览器内核简介"></a>2.浏览器内核简介</h2><p>浏览器的内核是指支持浏览器运行的最核心的程序,英文叫做：Renderin Engine，中文翻译很多，排版引擎、解释引擎、渲染引擎，现在流行称为浏览器内核。。内核可以分成两部分：渲染引擎和 JS 引擎。最开始渲染引擎和 JS 引擎并没有区分的很明确，后来 JS 引擎越来越独立，内核就倾向于单指渲染引擎。</p><h2 id="3-浏览器内核的作用"><a href="#3-浏览器内核的作用" class="headerlink" title="3.浏览器内核的作用"></a>3.浏览器内核的作用</h2><p>浏览器内核负责对网页语法的解释（如标准通用标记语言下的一个应用 HTML、JavaScript）并渲染（显示）网页。 所以，通常所谓的浏览器内核也就是浏览器所采用的渲染引擎，渲染引擎决定了浏览器如何显示网页的内容以及页面的格式信息。<br>不同的浏览器内核对网页编写语法的解释也有不同，因此同一网页在不同的内核的浏览器里的渲染（显示）效果也可能不同，这也是网页编写者需要在不同内核的浏览器中测试网页显示效果的原因。</p><h3 id="3-1-主流浏览器内核介绍："><a href="#3-1-主流浏览器内核介绍：" class="headerlink" title="3.1.主流浏览器内核介绍："></a>3.1.主流浏览器内核介绍：</h3><p><a href="https://imgconvert.csdnimg.cn/aHR0cDovL2ltZy5paW1lZGlhLmNuLzAwMDAxNGUxMmQyOWM2ZTRjNjk0NjNkMzgwZDdhZDgzOTAzYWIzYjNkNGE1N2YzNTgwN2Y0M2E0MjBmNTBmOTM1YjQyOA?x-oss-process=image/format,png" data-fancybox="group" data-caption class="fancybox"><img alt title data-src="https://imgconvert.csdnimg.cn/aHR0cDovL2ltZy5paW1lZGlhLmNuLzAwMDAxNGUxMmQyOWM2ZTRjNjk0NjNkMzgwZDdhZDgzOTAzYWIzYjNkNGE1N2YzNTgwN2Y0M2E0MjBmNTBmOTM1YjQyOA?x-oss-process=image/format,png" src="/img/loading.gif" class="lazyload"></a></p><blockquote><ul><li><strong>Trident</strong>(IE 内核)：该内核程序在 1997 年的 IE4 中首次被采用，是微软在 Mosaic 代码的基础之上修改而来的，并沿用到 IE11，也被普遍 称作” IE 内核”。Trident<br>   实际上是一款开放的内核，其接口内核设计的相当成熟，因此才有许多采用 IE 内核而非 IE 的浏览器 (壳浏览器) 涌现。</li></ul></blockquote><blockquote><ul><li><strong>Gecko</strong>(Firefox 内核): Netscape6（网景）开始采用的内核，后来的 Mozilla FireFox (火狐浏览器) 也采用了该内核，Gecko 的特点是代码完全公开，因此，其可开发程度很高，全世界的程序员都可以为其编写代码，增加功能。</li></ul></blockquote><blockquote><ul><li><strong>Presto</strong>(Opera 前内核)(已废弃): Opera12.17 及更早版本曾经采用的内核，现已停止开发并废弃，该内核在 2003 年的 Opera7 中首次被使用，该款引擎的特点就是渲染速度的优化达到了极致，然而代价是牺牲了网页的兼容性。而且它是个商业引擎，不开源，这一定程度上也限制了它的发展。Opera 现在采用的是 Webkit 内核，并已宣布最终会转向谷歌的 Blink 内核。</li></ul></blockquote><blockquote><ul><li><strong>Webkit</strong>(Safari 内核,Chrome 内核原型,开源): 它是苹果公司自己的内核，也是苹果的 Safari 浏览器使用的内核。Webkit 引擎包含 WebCore 排版引擎及 JavaScriptCore 解析引擎，均是从 KDE 的 KHTML 及 KJS 引擎衍生而</li></ul></blockquote><blockquote><ul><li><strong>Blink</strong>（谷歌开发，并正在不断完善）: 是一个由 Google（主导） 和 Opera（参与） 开发的浏览器排版引擎，Google 计划将这个渲染引擎作为 Chromium 计划的一部分，并且在 2013 年 4 月的时候公布了这一消息。 这一渲染引擎是开源引擎 WebKit 中 WebCore 组件的一个分支，并且在 Chrome（28 及往后版本）、Opera（15 及往后版本）和 Yandex 浏览器中使用。2013 年 4 月 3 日，谷歌宣布将与苹果的开源浏览器核心 Webkit 分道扬镳，在 Chromium 项目中研发 Blink 渲染引擎（即浏览器核心），内置于 Chrome 浏览器之中。<br>苹果在 Safari 中采用 Webkit 核心，并于 2005 年将 Webkit 公开为开源软件。谷歌当时采用苹果的 Webkit 核心打造了 Chrome 浏览器。Opera 也宣布称将会转向 Webkit 核心，但是谷歌宣布此举后，Opera 表示将会跟随谷歌采用其Blink浏览器核心，同时参与了 Blink 的开发。</li></ul></blockquote><h3 id="3-2-两大排版引擎"><a href="#3-2-两大排版引擎" class="headerlink" title="3.2.两大排版引擎"></a>3.2.两大排版引擎</h3><blockquote><ul><li><strong>WebCore</strong>：WebCore 是苹果公司开发的排版引擎，它是在另外一个排版引擎 “KHTML” 的基础上而来的。使用 WebCore 的主要有 Safari，此外还有 OmniWeb、Shiira、Swift 等。Safari 现支持 Windows，但效果不如 iOS 上的。</li><li><strong>KHTML</strong>：KHTML，是 HTML 网页排版引擎之一，由 KDE 所开发。</li></ul></blockquote><h2 id="4-主流浏览器"><a href="#4-主流浏览器" class="headerlink" title="4.主流浏览器"></a>4.主流浏览器</h2><p>主流浏览器是有一定市场份额且有自己独立研发内核的浏览器<br>份额排行：<a href="https://tongji.baidu.com" target="_blank" rel="noopener">百度统计:份额排行</a></p><blockquote><p>IE/Edge，Chrome，Safari，Opera，Firefox</p></blockquote><p><a href="https://img-blog.csdnimg.cn/20200116210717887.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQ0MjMyOTc2,size_16,color_FFFFFF,t_70" data-fancybox="group" data-caption class="fancybox"><img alt title data-src="https://img-blog.csdnimg.cn/20200116210717887.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQ0MjMyOTc2,size_16,color_FFFFFF,t_70" src="/img/loading.gif" class="lazyload"></a></p><h2 id="5-常见浏览器JS引擎和内核"><a href="#5-常见浏览器JS引擎和内核" class="headerlink" title="5.常见浏览器JS引擎和内核"></a>5.常见浏览器JS引擎和内核</h2><p><a href="https://img-blog.csdnimg.cn/20200116211858377.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQ0MjMyOTc2,size_16,color_FFFFFF,t_70" data-fancybox="group" data-caption class="fancybox"><img alt title data-src="https://img-blog.csdnimg.cn/20200116211858377.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQ0MjMyOTc2,size_16,color_FFFFFF,t_70" src="/img/loading.gif" class="lazyload"></a></p><blockquote><ul><li><strong>IE/Edge</strong>：微软的IE浏览器浏览器更新至IE10后，伴随着WIN10系统的上市，迁移到了全新的浏览器Edge。除了JS引擎沿用之前IE9就开始使用的查克拉(Chakra)，渲染引擎使用了新的内核EdgeHTML（本质上不是对Trident的完全推翻重建，而是在Trident基础上删除了过时的旧技术支持的代码，扩展和优化了对新的技术的支持，所以被看做是全新的内核）</li></ul></blockquote><blockquote><ul><li><strong>Safari</strong>：Safari自2003年面世，就一直是苹果公司的产品自带的浏览器，它使用的是苹果研发和开源的Webkit引擎。Webkit引擎包含WebCore排版引擎及JavaScriptCore解析引擎，均是从KDE的KHTML及KJS引擎衍生而来。Webkit2发布于2010年，它实现了元件的抽象画，提高了元件的重复利用效率，提供了更加干净的网页渲染和更高效的渲染效率。另外，Webkit也是苹果Mac<br>OS X系统引擎框架版本的名称，主要用于Safari、Dashboard、Mail。</li></ul></blockquote><blockquote><ul><li><strong>Chrome</strong>：提到Chrome浏览器，一般人会认为使用的Webkit内核，这种说法不完全准确。Chrome发布于2008年，使用的渲染内核是Chromium，它是fork自Webkit，但把Webkit梳理得更有条理可读性更高，效率提升明显。2013年，由于Webkit2和Chromium在沙箱设计上的冲突，谷歌联手Opera自研和发布了Blink引擎，逐步脱离了Webkit的影响。所以，可以这么认为：Chromium扩展自Webkit止于Webkit2，其后Chrome切换到了Blink引擎。另外，Chrome的JS引擎使用的V8引擎，应该算是最著名和优秀的开源JS引擎，大名鼎鼎的Node.js就是选用V8作为底层架构。</li></ul></blockquote><blockquote><ul><li><strong>Firefox</strong>：火狐的内核Gecko也是开源引擎，任何程序员都能为其提供扩展和建议。火狐的JS引擎历经SpiderMonkey、TraceMonkey到现在的JaegerMonkey。其中JaegerMonkey部分技术借鉴了V8、JSCore和Webkit，算是集思广益。</li></ul></blockquote><blockquote><ul><li><strong>Opera</strong>：Opera在2013年V12.16之前使用的是Opera<br>Software公司开发的Presto引擎，之后连同谷歌研发和选择Blink作为Opera浏览器的排版内核。</li></ul></blockquote><h2 id="6-国内浏览器情况"><a href="#6-国内浏览器情况" class="headerlink" title="6.国内浏览器情况"></a>6.国内浏览器情况</h2><p>国内浏览器厂商（QQ、2345、搜狗、猎豹、UC、360）也有一定的市场占有率。且大多数为双核<br>总结国内厂商内核来看，一般为三类：</p><blockquote><ul><li>使用的Trident单核，如：2345、世界之窗；</li><li>使用Trident+Webkit/Blink双核，如：qq、UC、猎豹、360、百度；</li><li>使用Webkit/Blink单核，如：搜狗、遨游。</li></ul></blockquote><p>双核浏览器通过WebKit内核来访问一些不需要进行网上交易的网站，使用起来速度更快更方便;双核浏览器在进行支付系统或者是网上银行的访问时，则使用的是Trident内核。这就是双核浏览器的高速模式和兼容模式。双核浏览器是一个不仅仅具有ie浏览器内核同时兼容非ie浏览器内核的浏览器，可以让用户在浏览器当中体验不同的需求</p><a id="more"></a>]]></content>
+      
+      
       <categories>
-        <category>技术开发知识</category>
-        <category>前端</category>
+          
+          <category> 技术开发知识 </category>
+          
+          <category> 前端 </category>
+          
       </categories>
-      <tags>
-        <tag>前端</tag>
-        <tag>技术开发知识</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>hello hexo</title>
-    <url>/posts/4e1ab0e7/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="这是使用Hexo生成的测试文章"><a href="#这是使用Hexo生成的测试文章" class="headerlink" title="这是使用Hexo生成的测试文章"></a>这是使用Hexo生成的测试文章</h1><h2 id="使用Markdown作为“标记语言”生成"><a href="#使用Markdown作为“标记语言”生成" class="headerlink" title="使用Markdown作为“标记语言”生成"></a>使用Markdown作为“标记语言”生成</h2><p>Markdown是一种可以使用普通文本编辑器编写的标记语言，通过简单的标记语法，它可以使普通文本内容具有一定的格式。它允许人们使用易读易写的纯文本格式编写文档，然后转换成格式丰富的HTML页面，Markdown文件的后缀名便是“ .md”</p>
-<h3 id="功能快捷键"><a href="#功能快捷键" class="headerlink" title="功能快捷键"></a>功能快捷键</h3><p>撤销：<kbd>Ctrl/Command</kbd> + <kbd>Z</kbd></p>
-<p>重做：<kbd>Ctrl/Command</kbd> + <kbd>Y</kbd></p>
-<p>加粗：<kbd>Ctrl/Command</kbd> + <kbd>B</kbd></p>
-<p>斜体：<kbd>Ctrl/Command</kbd> + <kbd>I</kbd></p>
-<p>标题：<kbd>Ctrl/Command</kbd> + <kbd>Shift</kbd> + <kbd>H</kbd></p>
-<h3 id="文本样式"><a href="#文本样式" class="headerlink" title="文本样式"></a>文本样式</h3><p><em>强调文本</em> <em>强调文本</em></p>
-<p><strong>加粗文本</strong> <strong>加粗文本</strong></p>
-<p>==标记文本==</p>
-<p><del>删除文本</del></p>
-<blockquote>
-<p>引用文本</p>
-</blockquote>
-<p>H<del>2</del>O is是液体。</p>
-<p>2^10^ 运算结果是 1024.</p>
-<h3 id="插入链接与图片"><a href="#插入链接与图片" class="headerlink" title="插入链接与图片"></a>插入链接与图片</h3><p>链接: <a href="https://mp.csdn.net" target="_blank" rel="noopener">link</a>.</p>
-<h3 id="插入代码片，下面展示同样高亮的-代码片"><a href="#插入代码片，下面展示同样高亮的-代码片" class="headerlink" title="插入代码片，下面展示同样高亮的 代码片."></a>插入代码片，下面展示同样高亮的 <code>代码片</code>.</h3><div class="code-area-wrap"><div class="highlight-tools"><i class="fa fa-angle-down code-expand" aria-hidden="true"></i><div class="code_lang">javascript</div><div class="copy-notice"></div><i class="fa fa-clipboard" aria-hidden="true"></i></div><figure class="highlight javascript"><table><tr><td class="code"><pre><span class="line"><span class="comment">// An highlighted block</span></span><br><span class="line"><span class="keyword">var</span> foo = <span class="string">'bar'</span>;</span><br></pre></td></tr></table></figure></div>
-
-<h3 id="列表"><a href="#列表" class="headerlink" title="列表"></a>列表</h3><h4 id="有序列表"><a href="#有序列表" class="headerlink" title="有序列表"></a>有序列表</h4><ul>
-<li>项目<ul>
-<li>项目<ul>
-<li>项目</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-<ol>
-<li>项目1</li>
-<li>项目2</li>
-<li>项目3</li>
-</ol>
-<ul>
-<li><input disabled type="checkbox"> 计划任务</li>
-<li><input checked disabled type="checkbox"> 完成任务</li>
-</ul>
-<h3 id="表格"><a href="#表格" class="headerlink" title="表格"></a>表格</h3><p>一个简单的表格是这么创建的：<br>项目     | Value<br>——– | —–<br>电脑  | $1600<br>手机  | $12<br>导管  | $1</p>
-<h4 id="设定内容居中、居左、居右"><a href="#设定内容居中、居左、居右" class="headerlink" title="设定内容居中、居左、居右"></a>设定内容居中、居左、居右</h4><p>使用<code>:---------:</code>居中<br>使用<code>:----------</code>居左<br>使用<code>----------:</code>居右<br>| 第一列       | 第二列         | 第三列        |<br>|:———–:| ————-:|:————-|<br>| 第一列文本居中 | 第二列文本居右  | 第三列文本居左 | </p>
-<h4 id="SmartyPants"><a href="#SmartyPants" class="headerlink" title="SmartyPants"></a>SmartyPants</h4><p>SmartyPants将ASCII标点字符转换为“智能”印刷标点HTML实体。例如：<br>|    TYPE   |ASCII                          |HTML<br>|—————-|——————————-|—————————–|<br>|Single backticks|<code>&#39;Isn&#39;t this fun?&#39;</code>            |’Isn’t this fun?’            |<br>|Quotes          |<code>&quot;Isn&#39;t this fun?&quot;</code>            |”Isn’t this fun?”            |<br>|Dashes          |<code>-- is en-dash, --- is em-dash</code>|– is en-dash, — is em-dash|</p>
-<dl><dt>##自定义列表<br>Markdown</dt><dd>Text-to-HTML conversion tool</dd></dl><dl><dt>Authors<br>:  John</dt><dd>Luke</dd></dl><h3 id="注脚"><a href="#注脚" class="headerlink" title="注脚"></a>注脚</h3><p>一个具有注脚的文本。<a href="注脚的解释">^2</a></p>
-<h3 id="注释"><a href="#注释" class="headerlink" title="注释"></a>注释</h3><p>Markdown将文本转换为 HTML。</p>
-<p>*[HTML]:   超文本标记语言</p>
-<h3 id="KaTeX数学公式"><a href="#KaTeX数学公式" class="headerlink" title="KaTeX数学公式"></a>KaTeX数学公式</h3><p>您可以使用渲染LaTeX数学表达式 <a href="https://khan.github.io/KaTeX/" target="_blank" rel="noopener">KaTeX</a>:</p>
-<p>Gamma公式展示 $\Gamma(n) = (n-1)!\quad\forall<br>n\in\mathbb N$ 是通过欧拉积分</p>
-<p>$$<br>\Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt,.<br>$$</p>
-<blockquote>
-<p>你可以找到更多关于的信息 <strong>LaTeX</strong> 数学表达式[here][1].</p>
-</blockquote>
-<h3 id="甘特图"><a href="#甘特图" class="headerlink" title="甘特图"></a>甘特图</h3><div class="code-area-wrap"><div class="highlight-tools"><i class="fa fa-angle-down code-expand" aria-hidden="true"></i><div class="code_lang">Code</div><div class="copy-notice"></div><i class="fa fa-clipboard" aria-hidden="true"></i></div><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">gantt</span><br><span class="line">        dateFormat  YYYY-MM-DD</span><br><span class="line">        title Adding GANTT diagram functionality to mermaid</span><br><span class="line">        section 现有任务</span><br><span class="line">        已完成               :done,    des1, 2014-01-06,2014-01-08</span><br><span class="line">        进行中               :active,  des2, 2014-01-09, 3d</span><br><span class="line">        计划一               :         des3, after des2, 5d</span><br><span class="line">        计划二               :         des4, after des3, 5d</span><br></pre></td></tr></table></figure></div>
-<ul>
-<li>关于 <strong>甘特图</strong> 语法，参考 [这里][2],</li>
-</ul>
-<h2 id="UML-图表"><a href="#UML-图表" class="headerlink" title="UML 图表"></a>UML 图表</h2><p>可以使用UML图表进行渲染。 <a href="https://mermaidjs.github.io/" target="_blank" rel="noopener">Mermaid</a>. 例如下面产生的一个序列图：</p>
-<div class="code-area-wrap"><div class="highlight-tools"><i class="fa fa-angle-down code-expand" aria-hidden="true"></i><div class="code_lang">Code</div><div class="copy-notice"></div><i class="fa fa-clipboard" aria-hidden="true"></i></div><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line"></span><br><span class="line"></span><br><span class="line">这将产生一个流程图。:</span><br><span class="line"></span><br><span class="line">&#96;&#96;&#96;mermaid</span><br><span class="line">graph LR</span><br><span class="line">A[长方形] -- 链接 --&gt; B((圆))</span><br><span class="line">A --&gt; C(圆角长方形)</span><br><span class="line">B --&gt; D&#123;菱形&#125;</span><br><span class="line">C --&gt; D</span><br></pre></td></tr></table></figure></div>
-
-<ul>
-<li>关于 <strong>Mermaid</strong> 语法，参考 [这里][3],</li>
-</ul>
-<h2 id="FLowchart流程图"><a href="#FLowchart流程图" class="headerlink" title="FLowchart流程图"></a>FLowchart流程图</h2><p>我们依旧会支持flowchart的流程图：</p>
-<div class="code-area-wrap"><div class="highlight-tools"><i class="fa fa-angle-down code-expand" aria-hidden="true"></i><div class="code_lang">Code</div><div class="copy-notice"></div><i class="fa fa-clipboard" aria-hidden="true"></i></div><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">flowchat</span><br><span class="line">st&#x3D;&gt;start: 开始</span><br><span class="line">e&#x3D;&gt;end: 结束</span><br><span class="line">op&#x3D;&gt;operation: 我的操作</span><br><span class="line">cond&#x3D;&gt;condition: 确认？</span><br><span class="line"></span><br><span class="line">st-&gt;op-&gt;cond</span><br><span class="line">cond(yes)-&gt;e</span><br><span class="line">cond(no)-&gt;op</span><br></pre></td></tr></table></figure></div>
-
-<ul>
-<li>关于 <strong>Flowchart流程图</strong> 语法，参考 [这里]][4].</li>
-</ul>
-<a id="more"></a>
-]]></content>
+      
+      
+        <tags>
+            
+            <tag> 前端 </tag>
+            
+            <tag> 技术开发知识 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>hello hexo</title>
+      <link href="/posts/4e1ab0e7/"/>
+      <url>/posts/4e1ab0e7/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="这是使用Hexo生成的测试文章"><a href="#这是使用Hexo生成的测试文章" class="headerlink" title="这是使用Hexo生成的测试文章"></a>这是使用Hexo生成的测试文章</h1><h2 id="使用Markdown作为“标记语言”生成"><a href="#使用Markdown作为“标记语言”生成" class="headerlink" title="使用Markdown作为“标记语言”生成"></a>使用Markdown作为“标记语言”生成</h2><p>Markdown是一种可以使用普通文本编辑器编写的标记语言，通过简单的标记语法，它可以使普通文本内容具有一定的格式。它允许人们使用易读易写的纯文本格式编写文档，然后转换成格式丰富的HTML页面，Markdown文件的后缀名便是“ .md”</p><h3 id="功能快捷键"><a href="#功能快捷键" class="headerlink" title="功能快捷键"></a>功能快捷键</h3><p>撤销：<kbd>Ctrl/Command</kbd> + <kbd>Z</kbd></p><p>重做：<kbd>Ctrl/Command</kbd> + <kbd>Y</kbd></p><p>加粗：<kbd>Ctrl/Command</kbd> + <kbd>B</kbd></p><p>斜体：<kbd>Ctrl/Command</kbd> + <kbd>I</kbd></p><p>标题：<kbd>Ctrl/Command</kbd> + <kbd>Shift</kbd> + <kbd>H</kbd></p><h3 id="文本样式"><a href="#文本样式" class="headerlink" title="文本样式"></a>文本样式</h3><p><em>强调文本</em> <em>强调文本</em></p><p><strong>加粗文本</strong> <strong>加粗文本</strong></p><p>==标记文本==</p><p><del>删除文本</del></p><blockquote><p>引用文本</p></blockquote><p>H<del>2</del>O is是液体。</p><p>2^10^ 运算结果是 1024.</p><h3 id="插入链接与图片"><a href="#插入链接与图片" class="headerlink" title="插入链接与图片"></a>插入链接与图片</h3><p>链接: <a href="https://mp.csdn.net" target="_blank" rel="noopener">link</a>.</p><h3 id="插入代码片，下面展示同样高亮的-代码片"><a href="#插入代码片，下面展示同样高亮的-代码片" class="headerlink" title="插入代码片，下面展示同样高亮的 代码片."></a>插入代码片，下面展示同样高亮的 <code>代码片</code>.</h3><div class="code-area-wrap"><div class="highlight-tools"><i class="fa fa-angle-down code-expand" aria-hidden="true"></i><div class="code_lang">javascript</div><div class="copy-notice"></div><i class="fa fa-clipboard" aria-hidden="true"></i></div><figure class="highlight javascript"><table><tr><td class="code"><pre><span class="line"><span class="comment">// An highlighted block</span></span><br><span class="line"><span class="keyword">var</span> foo = <span class="string">'bar'</span>;</span><br></pre></td></tr></table></figure></div><h3 id="列表"><a href="#列表" class="headerlink" title="列表"></a>列表</h3><h4 id="有序列表"><a href="#有序列表" class="headerlink" title="有序列表"></a>有序列表</h4><ul><li>项目<ul><li>项目<ul><li>项目</li></ul></li></ul></li></ul><ol><li>项目1</li><li>项目2</li><li>项目3</li></ol><ul><li><input disabled type="checkbox"> 计划任务</li><li><input checked disabled type="checkbox"> 完成任务</li></ul><h3 id="表格"><a href="#表格" class="headerlink" title="表格"></a>表格</h3><p>一个简单的表格是这么创建的：<br>项目     | Value<br>——– | —–<br>电脑  | $1600<br>手机  | $12<br>导管  | $1</p><h4 id="设定内容居中、居左、居右"><a href="#设定内容居中、居左、居右" class="headerlink" title="设定内容居中、居左、居右"></a>设定内容居中、居左、居右</h4><p>使用<code>:---------:</code>居中<br>使用<code>:----------</code>居左<br>使用<code>----------:</code>居右<br>| 第一列       | 第二列         | 第三列        |<br>|:———–:| ————-:|:————-|<br>| 第一列文本居中 | 第二列文本居右  | 第三列文本居左 | </p><h4 id="SmartyPants"><a href="#SmartyPants" class="headerlink" title="SmartyPants"></a>SmartyPants</h4><p>SmartyPants将ASCII标点字符转换为“智能”印刷标点HTML实体。例如：<br>|    TYPE   |ASCII                          |HTML<br>|—————-|——————————-|—————————–|<br>|Single backticks|<code>&#39;Isn&#39;t this fun?&#39;</code>            |’Isn’t this fun?’            |<br>|Quotes          |<code>&quot;Isn&#39;t this fun?&quot;</code>            |”Isn’t this fun?”            |<br>|Dashes          |<code>-- is en-dash, --- is em-dash</code>|– is en-dash, — is em-dash|</p><dl><dt>##自定义列表<br>Markdown</dt><dd>Text-to-HTML conversion tool</dd></dl><dl><dt>Authors<br>:  John</dt><dd>Luke</dd></dl><h3 id="注脚"><a href="#注脚" class="headerlink" title="注脚"></a>注脚</h3><p>一个具有注脚的文本。<a href="注脚的解释">^2</a></p><h3 id="注释"><a href="#注释" class="headerlink" title="注释"></a>注释</h3><p>Markdown将文本转换为 HTML。</p><p>*[HTML]:   超文本标记语言</p><h3 id="KaTeX数学公式"><a href="#KaTeX数学公式" class="headerlink" title="KaTeX数学公式"></a>KaTeX数学公式</h3><p>您可以使用渲染LaTeX数学表达式 <a href="https://khan.github.io/KaTeX/" target="_blank" rel="noopener">KaTeX</a>:</p><p>Gamma公式展示 $\Gamma(n) = (n-1)!\quad\forall<br>n\in\mathbb N$ 是通过欧拉积分</p><p>$$<br>\Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt,.<br>$$</p><blockquote><p>你可以找到更多关于的信息 <strong>LaTeX</strong> 数学表达式[here][1].</p></blockquote><h3 id="甘特图"><a href="#甘特图" class="headerlink" title="甘特图"></a>甘特图</h3><div class="code-area-wrap"><div class="highlight-tools"><i class="fa fa-angle-down code-expand" aria-hidden="true"></i><div class="code_lang">Code</div><div class="copy-notice"></div><i class="fa fa-clipboard" aria-hidden="true"></i></div><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">gantt</span><br><span class="line">        dateFormat  YYYY-MM-DD</span><br><span class="line">        title Adding GANTT diagram functionality to mermaid</span><br><span class="line">        section 现有任务</span><br><span class="line">        已完成               :done,    des1, 2014-01-06,2014-01-08</span><br><span class="line">        进行中               :active,  des2, 2014-01-09, 3d</span><br><span class="line">        计划一               :         des3, after des2, 5d</span><br><span class="line">        计划二               :         des4, after des3, 5d</span><br></pre></td></tr></table></figure></div><ul><li>关于 <strong>甘特图</strong> 语法，参考 [这里][2],</li></ul><h2 id="UML-图表"><a href="#UML-图表" class="headerlink" title="UML 图表"></a>UML 图表</h2><p>可以使用UML图表进行渲染。 <a href="https://mermaidjs.github.io/" target="_blank" rel="noopener">Mermaid</a>. 例如下面产生的一个序列图：</p><div class="code-area-wrap"><div class="highlight-tools"><i class="fa fa-angle-down code-expand" aria-hidden="true"></i><div class="code_lang">Code</div><div class="copy-notice"></div><i class="fa fa-clipboard" aria-hidden="true"></i></div><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line"></span><br><span class="line"></span><br><span class="line">这将产生一个流程图。:</span><br><span class="line"></span><br><span class="line">&#96;&#96;&#96;mermaid</span><br><span class="line">graph LR</span><br><span class="line">A[长方形] -- 链接 --&gt; B((圆))</span><br><span class="line">A --&gt; C(圆角长方形)</span><br><span class="line">B --&gt; D&#123;菱形&#125;</span><br><span class="line">C --&gt; D</span><br></pre></td></tr></table></figure></div><ul><li>关于 <strong>Mermaid</strong> 语法，参考 [这里][3],</li></ul><h2 id="FLowchart流程图"><a href="#FLowchart流程图" class="headerlink" title="FLowchart流程图"></a>FLowchart流程图</h2><p>我们依旧会支持flowchart的流程图：</p><div class="code-area-wrap"><div class="highlight-tools"><i class="fa fa-angle-down code-expand" aria-hidden="true"></i><div class="code_lang">Code</div><div class="copy-notice"></div><i class="fa fa-clipboard" aria-hidden="true"></i></div><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">flowchat</span><br><span class="line">st&#x3D;&gt;start: 开始</span><br><span class="line">e&#x3D;&gt;end: 结束</span><br><span class="line">op&#x3D;&gt;operation: 我的操作</span><br><span class="line">cond&#x3D;&gt;condition: 确认？</span><br><span class="line"></span><br><span class="line">st-&gt;op-&gt;cond</span><br><span class="line">cond(yes)-&gt;e</span><br><span class="line">cond(no)-&gt;op</span><br></pre></td></tr></table></figure></div><ul><li>关于 <strong>Flowchart流程图</strong> 语法，参考 [这里]][4].</li></ul><a id="more"></a>]]></content>
+      
+      
       <categories>
-        <category>hexo</category>
+          
+          <category> hexo </category>
+          
       </categories>
-      <tags>
-        <tag>hexo</tag>
-        <tag>blog</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>浅析：Hexo + github pages 搭建博客原理</title>
-    <url>/posts/cac80c92/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="Hexo-github-pages-搭建博客原理"><a href="#Hexo-github-pages-搭建博客原理" class="headerlink" title="Hexo + github pages 搭建博客原理"></a>Hexo + github pages 搭建博客原理</h1><p>一直在用 Hexo 写博客，但是对其原理并不是很清晰，在网上找了一些资料，对 Hexo 有了新的认识，现在就来记录一下</p>
-<hr>
-<h1 id="github-的-pages-服务"><a href="#github-的-pages-服务" class="headerlink" title="github 的 pages 服务"></a>github 的 pages 服务</h1><p>github是项目托管网站，列出了项目的源文件，所以github 有一个pages功能，可以自定义主页，用来代替默认的列出源列表的这个页面， github 的 pages 服务不只是可以展示博客，你的每一个 github 仓库都有 pages 服务，可以通过简单的设置通过项目的 index.html 为入口展示你的项，但是大部分的 pages 服务都是用来搭建个人博客的。</p>
-<blockquote>
-<p>github Pages可以被认为是用户编写的、托管在github上的静态网页。</p>
-</blockquote>
-<h2 id="Hexo"><a href="#Hexo" class="headerlink" title="Hexo"></a>Hexo</h2><p>使用 Hexo + github pages 搭建博客，刚刚我们简单介绍了 github pages，那么现在我们就该介绍一下 Hexo，我们了解到 Hexo 是用来生成 HTML 的，那么这篇文章我们就主要来讲一下 Hexo 是怎样生成 HTML 的。</p>
-<h3 id="什么是-Hexo"><a href="#什么是-Hexo" class="headerlink" title="什么是 Hexo"></a>什么是 Hexo</h3><p> <a href="https://hexo.io/" target="_blank" rel="noopener">hexo官网</a><br>在 Hexo 的官网的，我们可以找到官方对 Hexo 的定义：<br><a href="https://imgconvert.csdnimg.cn/aHR0cHM6Ly91cGxvYWQtaW1hZ2VzLmppYW5zaHUuaW8vdXBsb2FkX2ltYWdlcy84NTYwNDc5LTk3NGIzOTk5YzgxMGUwY2IuanBn?x-oss-process=image/format,png" data-fancybox="group" data-caption="在这里插入图片描述" class="fancybox"><img alt="在这里插入图片描述" title="在这里插入图片描述" data-src="https://imgconvert.csdnimg.cn/aHR0cHM6Ly91cGxvYWQtaW1hZ2VzLmppYW5zaHUuaW8vdXBsb2FkX2ltYWdlcy84NTYwNDc5LTk3NGIzOTk5YzgxMGUwY2IuanBn?x-oss-process=image/format,png" src="/img/loading.gif" class="lazyload"></a></p>
-<blockquote>
-<p>快速、简洁且高效的博客框架</p>
-</blockquote>
-<p>Hexo 使用 Markdown（或其他渲染引擎）解析文章，在几秒内，即可利用靓丽的主题生成静态网页。<br>在官方文档我们可以看到文档结构如下:</p>
-<div class="code-area-wrap"><div class="highlight-tools"><i class="fa fa-angle-down code-expand" aria-hidden="true"></i><div class="code_lang">bash</div><div class="copy-notice"></div><i class="fa fa-clipboard" aria-hidden="true"></i></div><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">.</span><br><span class="line">├── _config.yml // 站点配置文件</span><br><span class="line">├── db.json // 缓存文件</span><br><span class="line">├── node_modules // 安装的插件以及hexo所需的一些nodejs模块</span><br><span class="line">├── package.json // 项目的依赖文件</span><br><span class="line">├── scaffolds // 模版文件</span><br><span class="line">├── <span class="built_in">source</span> // 源文件，用来存放你的文章 md 文件</span><br><span class="line">└── themes // 主题文件</span><br></pre></td></tr></table></figure></div>
-
-<p>然后我们可以安装主题，比我我安装的 NexT 主题，安装完之后会在<code>themes</code>下面产生一个 next 文件存放主题中的内容，文档结构如下：</p>
-<div class="code-area-wrap"><div class="highlight-tools"><i class="fa fa-angle-down code-expand" aria-hidden="true"></i><div class="code_lang">bash</div><div class="copy-notice"></div><i class="fa fa-clipboard" aria-hidden="true"></i></div><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">.</span><br><span class="line">├── LICENSE</span><br><span class="line">├── README.en.md // READEME 英文版</span><br><span class="line">├── README.md // READEME 中文文件</span><br><span class="line">├── _config.yml // 主题配置文件</span><br><span class="line">├── bower.json</span><br><span class="line">├── gulpfile.coffee</span><br><span class="line">├── languages // 多语言配置文件</span><br><span class="line">├── layout // 模板文件</span><br><span class="line">├── package.json // 项目的依赖文件</span><br><span class="line">├── scripts // 主题的脚本文件</span><br><span class="line">├── <span class="built_in">source</span> // 主题的资源文件 CSS IMG</span><br><span class="line">└── <span class="built_in">test</span></span><br></pre></td></tr></table></figure></div>
-
-<h3 id="Hexo-的工作原理"><a href="#Hexo-的工作原理" class="headerlink" title="Hexo 的工作原理"></a>Hexo 的工作原理</h3><p> <a href="https://img-blog.csdnimg.cn/20200117151119504.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQ0MjMyOTc2,size_16,color_FFFFFF,t_70" data-fancybox="group" data-caption="在这里插入图片描述" class="fancybox"><img alt="在这里插入图片描述" title="在这里插入图片描述" data-src="https://img-blog.csdnimg.cn/20200117151119504.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQ0MjMyOTc2,size_16,color_FFFFFF,t_70" src="/img/loading.gif" class="lazyload"></a><br>如上图，(用户通过浏览器访问到的)git page上的博客网站其实是<code>hexo generate</code>之后生成的<code>public</code>目录下的内容。<br>所以，一个hexo博客项目应该有两个仓库:</p>
-<blockquote>
-<ol>
-<li>(基于<code>hexo init</code>结果的)博客编写仓库。可以把这个项目看成一个代码库，用来”开发”博客网站(包含写博客，生成博客等任务)</li>
-<li>存放(<code>hexo generate</code>结果的)public目录仓库。这个项目是”只读”的，我们不会直接修改这个仓库的内容，我们也不会对这个仓库直接进行<code>git pull、git commit、git push</code>等常规操作。这个仓库的内容就是public目下的内容，即是通过<code>hexo generate产生、hexo deploy</code>提交的。</li>
-</ol>
-</blockquote>
-<h3 id="Hexo-每次部署的流程"><a href="#Hexo-每次部署的流程" class="headerlink" title="Hexo 每次部署的流程"></a>Hexo 每次部署的流程</h3><ol>
-<li><code>hexo g</code>：生成静态文件。将我们的数据和界面相结合生成静态文件的过程。会遍历主题文件中的 source 文件夹（js、css、img 等静态资源），然后建立索引，然后根据索引生成 pubild 文件夹中，此时的 publid 文件是由 html、 js、css、img 建立的纯静态文件可以通过 index.html 作为入口访问你的博客。</li>
-<li><code>hexo d</code>：部署文件。部署主要是根据在<code>_config.yml</code> 中配置的 git 仓库或者 coding 的地址，将<code>public</code> 文件上传至 github 或者 coding 中。然后再根据上面的 github 提供的 pages 服务呈现出页面。当然你也可以直接将你生成的 <code>public</code> 文件上传至你自己的服务器上。<h3 id="Hexo-的模板引擎"><a href="#Hexo-的模板引擎" class="headerlink" title="Hexo 的模板引擎"></a>Hexo 的模板引擎</h3>模板引擎的作用，就是将界面与数据分离。最简单的原理是将模板内容中指定的地方替换成数据，实现业务代码与逻辑代码分离。<br>我们可以注意到，在 Hexo 中，<code>source</code> 文件夹和<code>themes</code>文件夹是在同级的，我们就可以将<code>source</code>文件夹理解为数据库，而主题文件夹相当于 界面。然后我们 hexo g 就将我们的数据和界面相结合生成静态文件 <code>public</code>。<br>Hexo 的模板引擎是默认使用 ejs 编写的。hexo首先会解析 <code>md</code> 文件，然后根据 <code>layout</code> 判断布局类型，再调用其他的文件，这样每一块的内容都是独立的，提高代码的复用性。最终会生成一个 html 页面。<h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2>非要说 Hexo 是什么的话，我觉得就是生成静态页面的工具，可以将我们使用 markdown 编写的内容与主题模板相结合，生成 HTML 静态文件。并且可以和 github 的 pages 或者其他可以将静态页面展现出来的服务（例如 coding 的 pages 服务）相结合，一键部署。<br>再深入一点讲 Hexo 的原理的话，那就应该是使用 <code>yaml</code>语言 做配置文件，使用 <code>ejs</code> 或者<code>swig</code> 作为主题模板，与使用 markdown 书写的内容结合，生成静态 HTML 文件。</li>
-</ol>
-<hr>
-<p>参考文献：</p>
-<blockquote>
-<ul>
-<li>Hexo Docs 写一个自己的Hexo主题</li>
-<li>Hexo 主题制作指南<ul>
-<li>hexo原理浅析</li>
-</ul>
-</li>
-</ul>
-</blockquote>
-<p>© 著作权归原作者所有</p>
-<a id="more"></a>
-]]></content>
+      
+      
+        <tags>
+            
+            <tag> hexo </tag>
+            
+            <tag> blog </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>浅析：Hexo + github pages 搭建博客原理</title>
+      <link href="/posts/cac80c92/"/>
+      <url>/posts/cac80c92/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="Hexo-github-pages-搭建博客原理"><a href="#Hexo-github-pages-搭建博客原理" class="headerlink" title="Hexo + github pages 搭建博客原理"></a>Hexo + github pages 搭建博客原理</h1><p>一直在用 Hexo 写博客，但是对其原理并不是很清晰，在网上找了一些资料，对 Hexo 有了新的认识，现在就来记录一下</p><hr><h1 id="github-的-pages-服务"><a href="#github-的-pages-服务" class="headerlink" title="github 的 pages 服务"></a>github 的 pages 服务</h1><p>github是项目托管网站，列出了项目的源文件，所以github 有一个pages功能，可以自定义主页，用来代替默认的列出源列表的这个页面， github 的 pages 服务不只是可以展示博客，你的每一个 github 仓库都有 pages 服务，可以通过简单的设置通过项目的 index.html 为入口展示你的项，但是大部分的 pages 服务都是用来搭建个人博客的。</p><blockquote><p>github Pages可以被认为是用户编写的、托管在github上的静态网页。</p></blockquote><h2 id="Hexo"><a href="#Hexo" class="headerlink" title="Hexo"></a>Hexo</h2><p>使用 Hexo + github pages 搭建博客，刚刚我们简单介绍了 github pages，那么现在我们就该介绍一下 Hexo，我们了解到 Hexo 是用来生成 HTML 的，那么这篇文章我们就主要来讲一下 Hexo 是怎样生成 HTML 的。</p><h3 id="什么是-Hexo"><a href="#什么是-Hexo" class="headerlink" title="什么是 Hexo"></a>什么是 Hexo</h3><p> <a href="https://hexo.io/" target="_blank" rel="noopener">hexo官网</a><br>在 Hexo 的官网的，我们可以找到官方对 Hexo 的定义：<br><a href="https://imgconvert.csdnimg.cn/aHR0cHM6Ly91cGxvYWQtaW1hZ2VzLmppYW5zaHUuaW8vdXBsb2FkX2ltYWdlcy84NTYwNDc5LTk3NGIzOTk5YzgxMGUwY2IuanBn?x-oss-process=image/format,png" data-fancybox="group" data-caption="在这里插入图片描述" class="fancybox"><img alt="在这里插入图片描述" title="在这里插入图片描述" data-src="https://imgconvert.csdnimg.cn/aHR0cHM6Ly91cGxvYWQtaW1hZ2VzLmppYW5zaHUuaW8vdXBsb2FkX2ltYWdlcy84NTYwNDc5LTk3NGIzOTk5YzgxMGUwY2IuanBn?x-oss-process=image/format,png" src="/img/loading.gif" class="lazyload"></a></p><blockquote><p>快速、简洁且高效的博客框架</p></blockquote><p>Hexo 使用 Markdown（或其他渲染引擎）解析文章，在几秒内，即可利用靓丽的主题生成静态网页。<br>在官方文档我们可以看到文档结构如下:</p><div class="code-area-wrap"><div class="highlight-tools"><i class="fa fa-angle-down code-expand" aria-hidden="true"></i><div class="code_lang">bash</div><div class="copy-notice"></div><i class="fa fa-clipboard" aria-hidden="true"></i></div><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">.</span><br><span class="line">├── _config.yml // 站点配置文件</span><br><span class="line">├── db.json // 缓存文件</span><br><span class="line">├── node_modules // 安装的插件以及hexo所需的一些nodejs模块</span><br><span class="line">├── package.json // 项目的依赖文件</span><br><span class="line">├── scaffolds // 模版文件</span><br><span class="line">├── <span class="built_in">source</span> // 源文件，用来存放你的文章 md 文件</span><br><span class="line">└── themes // 主题文件</span><br></pre></td></tr></table></figure></div><p>然后我们可以安装主题，比我我安装的 NexT 主题，安装完之后会在<code>themes</code>下面产生一个 next 文件存放主题中的内容，文档结构如下：</p><div class="code-area-wrap"><div class="highlight-tools"><i class="fa fa-angle-down code-expand" aria-hidden="true"></i><div class="code_lang">bash</div><div class="copy-notice"></div><i class="fa fa-clipboard" aria-hidden="true"></i></div><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">.</span><br><span class="line">├── LICENSE</span><br><span class="line">├── README.en.md // READEME 英文版</span><br><span class="line">├── README.md // READEME 中文文件</span><br><span class="line">├── _config.yml // 主题配置文件</span><br><span class="line">├── bower.json</span><br><span class="line">├── gulpfile.coffee</span><br><span class="line">├── languages // 多语言配置文件</span><br><span class="line">├── layout // 模板文件</span><br><span class="line">├── package.json // 项目的依赖文件</span><br><span class="line">├── scripts // 主题的脚本文件</span><br><span class="line">├── <span class="built_in">source</span> // 主题的资源文件 CSS IMG</span><br><span class="line">└── <span class="built_in">test</span></span><br></pre></td></tr></table></figure></div><h3 id="Hexo-的工作原理"><a href="#Hexo-的工作原理" class="headerlink" title="Hexo 的工作原理"></a>Hexo 的工作原理</h3><p> <a href="https://img-blog.csdnimg.cn/20200117151119504.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQ0MjMyOTc2,size_16,color_FFFFFF,t_70" data-fancybox="group" data-caption="在这里插入图片描述" class="fancybox"><img alt="在这里插入图片描述" title="在这里插入图片描述" data-src="https://img-blog.csdnimg.cn/20200117151119504.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQ0MjMyOTc2,size_16,color_FFFFFF,t_70" src="/img/loading.gif" class="lazyload"></a><br>如上图，(用户通过浏览器访问到的)git page上的博客网站其实是<code>hexo generate</code>之后生成的<code>public</code>目录下的内容。<br>所以，一个hexo博客项目应该有两个仓库:</p><blockquote><ol><li>(基于<code>hexo init</code>结果的)博客编写仓库。可以把这个项目看成一个代码库，用来”开发”博客网站(包含写博客，生成博客等任务)</li><li>存放(<code>hexo generate</code>结果的)public目录仓库。这个项目是”只读”的，我们不会直接修改这个仓库的内容，我们也不会对这个仓库直接进行<code>git pull、git commit、git push</code>等常规操作。这个仓库的内容就是public目下的内容，即是通过<code>hexo generate产生、hexo deploy</code>提交的。</li></ol></blockquote><h3 id="Hexo-每次部署的流程"><a href="#Hexo-每次部署的流程" class="headerlink" title="Hexo 每次部署的流程"></a>Hexo 每次部署的流程</h3><ol><li><code>hexo g</code>：生成静态文件。将我们的数据和界面相结合生成静态文件的过程。会遍历主题文件中的 source 文件夹（js、css、img 等静态资源），然后建立索引，然后根据索引生成 pubild 文件夹中，此时的 publid 文件是由 html、 js、css、img 建立的纯静态文件可以通过 index.html 作为入口访问你的博客。</li><li><code>hexo d</code>：部署文件。部署主要是根据在<code>_config.yml</code> 中配置的 git 仓库或者 coding 的地址，将<code>public</code> 文件上传至 github 或者 coding 中。然后再根据上面的 github 提供的 pages 服务呈现出页面。当然你也可以直接将你生成的 <code>public</code> 文件上传至你自己的服务器上。<h3 id="Hexo-的模板引擎"><a href="#Hexo-的模板引擎" class="headerlink" title="Hexo 的模板引擎"></a>Hexo 的模板引擎</h3>模板引擎的作用，就是将界面与数据分离。最简单的原理是将模板内容中指定的地方替换成数据，实现业务代码与逻辑代码分离。<br>我们可以注意到，在 Hexo 中，<code>source</code> 文件夹和<code>themes</code>文件夹是在同级的，我们就可以将<code>source</code>文件夹理解为数据库，而主题文件夹相当于 界面。然后我们 hexo g 就将我们的数据和界面相结合生成静态文件 <code>public</code>。<br>Hexo 的模板引擎是默认使用 ejs 编写的。hexo首先会解析 <code>md</code> 文件，然后根据 <code>layout</code> 判断布局类型，再调用其他的文件，这样每一块的内容都是独立的，提高代码的复用性。最终会生成一个 html 页面。<h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2>非要说 Hexo 是什么的话，我觉得就是生成静态页面的工具，可以将我们使用 markdown 编写的内容与主题模板相结合，生成 HTML 静态文件。并且可以和 github 的 pages 或者其他可以将静态页面展现出来的服务（例如 coding 的 pages 服务）相结合，一键部署。<br>再深入一点讲 Hexo 的原理的话，那就应该是使用 <code>yaml</code>语言 做配置文件，使用 <code>ejs</code> 或者<code>swig</code> 作为主题模板，与使用 markdown 书写的内容结合，生成静态 HTML 文件。</li></ol><hr><p>参考文献：</p><blockquote><ul><li>Hexo Docs 写一个自己的Hexo主题</li><li>Hexo 主题制作指南<ul><li>hexo原理浅析</li></ul></li></ul></blockquote><p>© 著作权归原作者所有</p><a id="more"></a>]]></content>
+      
+      
       <categories>
-        <category>技术开发知识</category>
+          
+          <category> 技术开发知识 </category>
+          
       </categories>
-      <tags>
-        <tag>hexo</tag>
-        <tag>blog</tag>
-        <tag>github</tag>
-        <tag>github pages</tag>
-      </tags>
-  </entry>
+      
+      
+        <tags>
+            
+            <tag> hexo </tag>
+            
+            <tag> blog </tag>
+            
+            <tag> github </tag>
+            
+            <tag> github pages </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
 </search>
